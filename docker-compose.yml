@@ -1,0 +1,25 @@
+name: learning-units
+
+services:
+  quarto:
+    tty: true
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./markdown:/markdown/
+      - ./bookdown:/bookdown
+
+  httpd:
+    image: httpd:alpine
+    volumes:
+      - ./bookdown/_output:/usr/local/apache2/htdocs/
+    ports:
+      - "8080:80"
+    depends_on:
+      quarto:
+        condition: service_completed_successfully
+
+
+volumes:
+  bookdown:

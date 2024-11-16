@@ -1,0 +1,59 @@
+project:
+  type: book
+  output-dir: _output/
+
+book:
+  title: "Argumentative Writing Units"
+  author: "Lars Höft"
+  date: "10.11.2024"
+  reader-mode: true
+  #downloads: epub
+  sidebar:
+    style: docked
+    background: light
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: Argumentieren
+    - part: Konzeptualisierung
+    - part: Unterrichtseinbettung
+    - part: Innerfachliche Lerneinheiten
+    - part: Fachübergreifende Lerneinheiten
+      chapters:
+          - agriculture/part_agriculture.qmd
+          - energy-carriers/part_energy-carriers.qmd
+          - energy-sources/part_energy-sources.qmd
+          - plastic-pollution/part_plastic-pollution.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+   # callout-icon: false
+    number-depth: 2
+    html-math-method: mathml
+    mainfont: sans-serif
+    fig-width: 6
+    fig-asp: 0.6666667
+    theme: 
+    - cosmo
+    - r4ds.scss
+  # epub:
+  #   #callout-icon: false
+  #   number-depth: 2
+  #   html-math-method: mathml
+  #   mainfont: sans-serif
+  #   cover-image: cover.png
+   
+
+lang: de
+
+knitr:
+  opts_chunk: 
+    dev: "ragg_png"
+    
+editor: 
+  markdown: 
+    wrap: 80

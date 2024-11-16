@@ -1,0 +1,347 @@
+## Landwirtschaft: Pflanzenzucht
+
+Der Klimawandel wirkt sich negativ auf die Welternährung aus und es wird
+zunehmend schwieriger, die wachsende Bevölkerung mit ausreichend Nahrungsmitteln
+zu versorgen. Neue Methoden der Pflanzenzucht könnten dazu beitragen, den Folgen
+des Klimawandels entgegenzuwirken, die Nahrungsmittelversorgung der
+Weltbevölkerung zu gewährleisten und gleichzeitig Ökologie und Ökonomie zu
+berücksichtigen. Beispielsweise könnten resistente Pflanzenarten entwickelt
+werden, die besser an neue klimatische Bedingungen angepasst sind. Es wäre zudem
+möglich, die Effizienz der Landwirtschaft zu steigern. Aktuell wird darüber
+diskutiert, welche Methode zur Zucht der Pflanzen gefördert werden soll.
+
+Konkret wird beraten, ob
+
+1.  die konventionelle Pflanzenzucht oder
+2.  die CRISPR/Cas9-Methode zur Genom-Editierung
+
+verstärkt gefördert werden soll.
+
+**Diskutiere** die vorgeschlagenen Methoden zur Pflanzenzucht vor dem
+Hintergrund des Klimawandels auf der Basis von mindestens drei Kriterien aus den
+Materialien der folgenden Seiten. Stärken Sie Ihre Argumente, indemSie die
+Relevanz der Kriterien für Ihre Behauptungen erklären.
+
+{{< include ../_hints.qmd >}}
+
+### Kriterienübersicht
+
+{{< include task_gmo_table.qmd >}}
+
+### Begrifflichkeiten
+
+Das Ziel der Pflanzenzucht ist es, nachteilige Merkmale zu entfernen und
+vorteilhafte Merkmalskombinationen zu erschaffen. So sollen Sorten geschaffen
+werden, die hohe Erträge erbringen, qualitativ hochwertig sind oder an bestimmte
+Umweltfaktoren besonders gut angepasst sind.
+
+**Konventionelle Pflanzenzucht:** Hierbei werden Pflanzen durch natürliche
+Kreuzung und Selektion gezüchtet. Die Kreuzungszüchtung geschieht ohne den
+Einsatz von gezielten genetischen Veränderungen. Die natürliche genetische
+Vielfalt wird genutzt, um neue Sorten mit bestimmten gewünschten Eigenschaften
+innerhalb einer Pflanzenart zu entwickeln. So könnten beispielsweise verbesserte
+Sorten, die einen höheren Ertrag oder eine Resistenz gegen bestimmte Schädlinge
+aufweisen, gezüchtet werden.
+
+**CRISPR/Cas9-Methode zur Genom-Editierung (kurz):** Das CRISPR/Cas9-System zur
+Genom-Editierung stellt eine präzise Methode zur Veränderung des Erbguts dar.
+Die Methode wurde basierend auf einem natürlichen Abwehrmechanismus von
+Bakterien gegen infektiöse Viren entwickelt. Das Enzym Cas9, welches die DNA
+schneidet, und die guideRNA, welche die Zielsequenz in der DNA bestimmt, die
+verändert werden soll, wirken dabei gemeinsam. So erkennt das CRISPR/Cas9-System
+spezifisch eine bestimmte Stelle im Genom, bindet dort und es wird ein
+Doppelstrangbruch in der DNA herbeigeführt. Daraufhin versuchen zelleigene
+Enzyme den DNA-Bruch zu reparieren, wodurch es zu Mutationen kommen kann. Diese
+können wiederum zu Veränderungen oder einem Verlust der Genfunktion führen.
+Zudem kann durch Vorlage einer Sequenz die Reparatur des DNA-Abschnittes gezielt
+gesteuert werden. Das Verfahren der sogenannten Genschere kann die DNA der
+Pflanze präzise an zuvor definierten Orten verändern. Dadurch ist es möglich,
+Pflanzen mit den gewünschten Merkmalskombinationen herzustellen.
+
+**CRISPR/Cas9-Methode zur Genom-Editierung (lang):** CRISPR ist die Abkürzung
+von **C**lustered **R**egularly **I**nterspaced **S**hort **P**alindromic
+**R**epeats (also "gehäuft auftretende, regelmäßig unterbrochene, kurze
+palindromische Wiederholungen") und bezieht sich auf Nukleotide eines
+DNA-Abschnitts. Palindrome sind von vorne, wie von hinten gelesen, gleich. Das
+bedeutet, dass die Abfolge der Nukleotide einer DNA-Sequenz aus beiden
+Richtungen die gleiche ist. CRISPR sind DNA-Sequenzen, die sich nicht in
+funktionsfähige Proteine translatieren ("übersetzen") lassen. Aber sie sind
+nicht funktionslos, denn sie können als Erkennungssequenz für DNA-schneidende
+Proteine dienen. Das Prinzip der CRISPR/Cas9-Methode beruht auf einem
+Abwehrsystem des Immunsystems von Bakterien. Dabei baut das Bakterium
+DNA-Abschnitte eines infektiösen Viruses in das eigene Erbgut mit ein, um das
+Virus bei einem erneuten Befall direkt erkennen und das Erbgut zerschneiden und
+das Virus somit unschädlich machen zu können. Cas steht für
+**CR**ISPR-**a**ssoziierte Gene, welche Bauanleitungen für Cas-Proteine liefern.
+Das spezifische Enzym, welches die DNA der Viren zerschneidet, ist das Protein
+Cas9. An dieses Protein kann eine bestimmte RNA-Sequenz gehängt werden, welche
+die Stelle bestimmt, an der die DNA-Sequenz geschnitten werden soll. Weil diese
+RNA eine "Lotsenfunktion" übernimmt, wird sie guideRNA (gRNA) genannt. Die
+Sequenz der gRNA ist komplementär zu dem DNA-Abschnitt der Pflanze ist, in dem
+die Veränderung durchgeführt werden soll. Zudem muss eine bestimmte Abfolge von
+Nukleotiden kurz vor dem Wirkort vorhanden sein (PAM = protospacer adjacent
+motif), damit das Cas9 Enzym die Ziel DNA erkennen und binden kann und
+anschließend den Doppelstrangbruch herbeiführen kann. Daraufhin versuchen
+zelleigene Enzyme den DNA-Bruch zu reparieren, wodurch es zu Mutationen kommen
+kann. Diese können wiederum zu Veränderungen oder einem Verlust der Genfunktion
+führen. Eine Alternativlösung besteht darin, durch eine Vorlage einer Sequenz
+die Reparatur des Bruchs zu steuern. So kann durch das Verfahren der sogenannten
+Genschere die Genome-Editierung präzise an zuvor definierten Orten der DNA der
+Pflanze vorgenommen werden und das Erbgut verändern. Dies ermöglicht es,
+Pflanzen mit den gewünschten Merkmalskombinationen herzustellen.
+
+::: {#fig-gmo-crispr-a .figure-caption}
+```{r}
+#| fig-align: left
+#| echo: false
+#| out.width: NULL
+
+knitr::include_graphics("task_gmo_fig_crispr_a.svg", dpi = 270)
+```
+
+1.  Die guideRNA ist dafür verantwortlich, dass das Enzym Cas9 den richtigen Ort
+    im Genom erreicht, an dem die DNA geschnitten werden soll.
+
+2.  Der Ort, an dem das Enzym Cas9 die DNA schneidet, wird durch die Zielsequenz
+    bestimmt. Eine spezifische Abfolge wird aus mehreren Nukleotiden gebildet.
+    Diese Nukleotide sind komplementär zwischen der guideRNA und der
+    DNA-Zielsequenz
+
+Schematische Darstellung der Genome Editierung durch CRISPR/Cas9. Der Verbund
+aus guideRNA und Cas9 bindet an die Zielsequenz der DNA.
+:::
+
+::: {#fig-gmo-crispr-b .figure-caption}
+```{r}
+#| fig-align: left
+#| echo: false
+#| out.width: NULL
+
+knitr::include_graphics("task_gmo_fig_crispr_b.svg", dpi = 270)
+```
+
+1.  Die PAM-Sequenz (PAM = protospacer adjacent motif) dient als
+    Erkennungssequenz und ist essentiell für die Lokalisation des Orts, an dem
+    das Enzym wirken soll.
+
+2.  Das Enzym Cas9 schneidet die DNA präzise an einer bestimmten Stelle und es
+    kommt zum Bruch des DNA-Doppelstrangs
+
+Schematische Darstellung der Genome Editierung durch CRISPR/Cas9. Das Cas9 Enzym
+kann den Wirkort im Erbgut finden, wenn die Zielsequenz und die PAM-Sequenz
+vorhanden sind. Daraufhin schneidet das Enzym die DNA und es kommt zum
+Doppelstrangbruch.
+:::
+
+### Kriterium 1: Veränderungen im Erbgut/ Präzision:
+
+Die CRISPR/Cas9-Methode kann DNA-Sequenzen zuverlässig und mit einer sehr hohen
+Präzision austauschen. Es kann somit eine effektive Veränderung der
+Eigenschaften von Kulturpflanzen vorgenommen werden und positive Merkmale
+verbessert oder neu geschaffen werden. Dadurch, dass ein Gen gezielt modifiziert
+wird, werden anders als bei der konventionellen Kreuzungszüchtung negative
+Auswirkungen auf andere Bereiche im Genom vermieden. Nachdem die Ausgangsorte
+mit dem Merkmalsträger gekreuzt worden ist und das positive Merkmals erfolgreich
+übertragen worden ist, müssen aufwendige Rückkreuzungsschritte erfolgen, um
+negative Merkmale, die unerwünschter Weise mit übertragen worden sind, zu
+entfernen. Dennoch kann es vorkommen, dass ein negatives Merkmals nicht trotz
+mehreren Rückkreuzungszyklen nicht entfernt werden kann. Dies lässt sich dadurch
+erklären, dass das gewünschte Gen gekoppelt mit einem unerwünschten benachbarten
+Gen vorliegt. Auch durch die Rekombination bei der Rückkreuzung kann das
+negative Gen nicht entfernt werden. Außerdem werden entstandene nachteilige
+Merkmale häufig nur umgehend identifiziert, wenn sie sich direkt auf den
+Phänotyp auswirken. Hingegen können bei der Anwendung von CRISPR/Cas9 auch
+gekoppelte Gene direkt angesteuert werden und beispielsweise Gene mit
+ungünstigen Eigenschaften ausgeschaltet werden. So kann auch eine
+Leistungsdepression von anderen positiven Merkmalen vermieden werden. Das übrige
+Genom wird nicht verändert und somit verändern sich auch nicht andere
+vorteilhafte Eigenschaften der Pflanze.
+
+### Kriterium 2: Zeitraum
+
+Die Kreuzungszüchtung ist eine sehr zeitaufwendige Methode, um neue
+Eigenschaften in einer Kulturpflanze zu etablieren. Zum einen kann es sehr
+aufwändig sein, die Individuen ausfindig zu machen, welche das gewünschte
+Merkmal tragen und als Donor (Spender) zur Verfügung stehen. Dies ist dadurch zu
+erklären, dass nicht alle Merkmale phänotypisch ausgeprägt sind. Ist kein Donor
+unter den Kultursorten zu finden, wird der Genpool, in dem gesucht wird,
+erweitert und beispielsweise auch der Wildtyp berücksichtigt. Hier ist der
+Nachteil, dass der Wildtyp häufig für die Landwirtschaft unerwünschte
+Eigenschaften enthält. Die Entfernung der unerwünschten Gene erfordert viele
+Rückkreuzungszyklen und kann bis zu 15 Jahre dauern. Aber auch nach der
+Rückkreuzung ist kein direkter Erfolg gewährleistet, da es zum Rückgang der
+Leistung anderer Merkmale kommen kann (Leistungsdepression). Hingegen kann die
+Verwendung des CRISPR/Cas9-Systems sehr zeitsparend sein und Auswirkungen wie
+die Leistungsdepression anderer Merkmale können reduziert werden. Dies lässt
+sich dadurch erklären, dass die Genom-Editierung präzise Veränderungen gezielt
+an einem Genort vornehmen kann. Wenn das gewünschte Gen und das unerwünschte Gen
+gekoppelt vorliegen, kann zwischen diesen keine ausreichende Rekombination
+stattfinden. So können durch die Kreuzungszüchtung unerwünschte
+Merkmalsausprägungen nicht immer verhindert werden. Der Einsatz von CRISPR/Cas9
+hingegen kann auch gekoppelte Gene gezielt einzeln verändern und es kommt zu
+keinem unerwünschten Einbau von anderen Merkmalen. Somit fallen die langjährigen
+Rückkreuzungen weg, was mit einem Zeitersparnis von bis zu 10 Jahren im
+Gegensatz zur Kreuzungszüchtung verbunden sein kann. Durch den Einsatz der
+Genom-Editierung ermöglicht eine schnellere Anpassung von Kulturpflanzen. Nach
+erfolgreichem Einbau der Veränderung im Genom ist es jedoch bei beiden Methoden
+notwendig, die neue Pflanzensorte auf veränderte Eigenschaften zu überprüfen und
+Freilandversuche durchzuführen.
+
+### Kriterium 3: Kosten
+
+Die Kreuzungszüchtung ist sehr teuer, da sie sehr aufwändig ist. Es wird viel
+Zeit und Geld benötigt, um die Pflanzen mit den gewünschten Eigenschaften zu
+identifizieren. Auch ist es erforderlich langwierige Rückkrezungsschritte
+durchzuführen, um negative Eigenschaften zu Eliminieren, die möglicherweise
+durch die Kreuzung mit dem Wildtyp in die Kultursorte eingeführt wurden. Die
+lange Zeitdauer führt also dazu, dass hohe Investitionen notwendig sind. Da bei
+dem CRISPR/Cas9-Verfahren die Rückkreuzungschritte entfallen, kann Zeit und Geld
+gespart werden, sodass die Kosten für die Genome Editierung geringer ausfallen.
+Zudem gelten aktuell für akademische Forschungsprojekte und Projekte, die keinem
+geschäftlichen Zweck dienen, keine Patentansprüche und die CRISPR/Cas9 Methode
+kann frei angewendet werden. Bei den beiden Verfahren kommen noch die Kosten für
+die Prüfung und Zulassung der neuen Sorte hinzu. Wie teuer es in Zukunft werden
+könnte, eine durch CRISPR/Cas9 erzeugte neue Sorte auf den Markt zu bringen,
+wird auch davon abhängig sein, ob die Methode weiterhin unter das aktuelle
+Gentechnikgesetz fällt. Wenn die erzeugten Pflanzen weiterhin als genmodifiziert
+reguliert werden, würde die Zulassung dem Markt mehr als doppelt so viel kosten
+im Vergleich zu einer Einstufung als konventionelles Erzeugnis.
+
+### Kriterium 4: Gesetzliche Vorschriften
+
+Der Europäische Gerichtshof entschied im Jahr 2018, dass durch CRISPR/Cas9
+hergestellte Pflanzensorten unter die Gentechnik-Gesetze fallen und somit muss
+die Freisetzung in die Umwelt und die Verwendung solcher Pflanzen genehmigt
+werden. Auch Lebensmittel und Futtermittel müssen gekennzeichnet werden. Aktuell
+wird allerdings darüber diskutiert, ob die geltenden Gesetze gelockert werden
+sollen. Der Vorschlag beinhaltet den Wegfall der zeitaufwendigen
+Zulassungsverfahren, sowie der Kennzeichnungspflicht. Zudem sollen
+Mitgliedstaaten der Europäischen Union Freilandversuche und den Anbau von
+Pflanzen, die durch Genome Editing hergestellt wurden, nicht mehr verbieten
+dürfen. Freilandversuche sollen in der Zukunft nur bei der Behörde angemeldet
+werden und anschließend ohne weitere Auflagen durchgeführt werden können. Dies
+gilt allerdings nur für Pflanzen der Kategorie neue genomische Techniken 1
+(NGT1). Diese Pflanzen müssen einige Anforderungen erfüllen, um in diese
+Kategorie eingeordnet werden zu können. Zum Beispiel dürfen nicht mehr als 20
+Nukleotide eingefügt oder verändert werden. Entfernt werden dürfen hingegen
+beliebig viele Basenpaare. Die gezielten DNA-Veränderungen dürfen nur
+vorgenommen werden, wenn die entstehenden Sequenzen auch durch zufällige
+Mutation oder aus der herkömmlichen Züchtung hätten hervorgehen können. Im
+Gegensatz zu den Vorschriften beim Einsatz des Genome Editings gelten bei der
+Kreuzungszüchtung keine gesetzlichen Regelungen.
+
+### Kriterium 5: Gentechnik und mögliche Risiken / Kritik
+
+Von Naturschutzverbänden wird kritisiert, dass bei einer technischen
+Manipulation Fremdgene in das Genom einführt. Allerdings wird bei der
+CRISPR/Cas9-Methode im Gegensatz zu den klassischen Gentechnik Methoden das
+Genkonstrukt mit der Bauanweisung dem Einsatz wieder aus der Zelle entfernt.
+Zudem ist bei der Genom Editierung genau steuerbar, an welcher Stelle im Genom
+die Veränderung stattfindet. Aber auch wenn der Eingriff sehr gezielt
+stattfindet, wurden unerwünschte Effekte der Editierung am Zielort direkt oder
+Wechselwirkungen mit anderen Elementen der Zelle beobachtet. Es wurde die
+Beeinflussung des Stoffwechsel und die Veränderung von Proteinen festgestellt.
+Dies kann zu unerwünschten Eigenschaften bei den Pflanzen führen. Außerdem
+können mehrere Eigenschaften auf einmal verändert werden, was die Abschätzung
+eines Risikos schwieriger macht. Im Nachhinein sind durch CRISPR/Cas9 erzeugte
+Pflanzen nicht mehr von Pflanzen, die aus klassischer Pflanzenzucht stammen,
+unterscheidbar. Dies kann problematisch im Hinblick auf die Verwendung von
+ökologischen Siegeln sein. Auch sind mögliche Langzeitauswirkungen bei einer
+breiten Anwendung und Ausbringung in die Natur schwer einzuschätzen. Wenn eine
+Pflanzensorte neue Eigenschaften vorweist, die die Fitness der Pflanze steigern,
+kann es leichter zu einer ungewollten und starken Ausbreitung der neuen Sorte
+kommen.
+
+### Kriterium 6: Nachhaltigkeit
+
+Neue Methoden der Pflanzenzucht können einen wichtigen Beitrag zur Bewältigung
+des Klimawandels leisten, indem sie dazu beitragen, klimaresistente
+Pflanzenarten zu entwickeln und die Effizienz der Landwirtschaft zu steigern. Es
+wird die Hoffnung verbreitet, dass durch die Verwendung von neuen Technologien
+wie CRISPR/Cas9 der Einsatz von Pestiziden auf den Äckern reduziert werden kann.
+Aber könnten sich die Versprechen für mehr Nachhaltigkeit tatsächlich
+bewahrheiten? Einerseits könnten die Kulturpflanzen durch das Genome Editing
+widerstandsfähiger gemacht werden und besser gegen Pilzbefall oder Infektionen
+durch Viren oder Bakterien geschützt sein. Ernteverluste können so minimiert
+werden und es müssten vorerst weniger Pflanzenschutzmittel ausgebracht werden.
+Auch könnten modifizierte Pflanzensorten den Folgen des Klimawandels angepasst
+werden und z. B. weiterhin regional angebaut werden. Pflanzen könnten
+hergestellt werden, die Hitze- oder Dürreperioden besser vertragen. Einerseits
+kann so eine Unabhängigkeit von Importen aus anderen Ländern geschaffen werden
+und die Ernährungssicherheit verbessert werden. Andererseits könnten auf diese
+Weise lange Transportwege und der damit verbundene Ausstoß von Kohlenstoffdioxid
+vermieden werden. Dennoch werden Eigenschaften, wie die Hitzeresistenz, durch
+ein komplexes Zusammenwirken von verschiedenen Zellen und Signalwegen gebildet.
+Eine vollständige Merkmalsveränderung durch die CRISPR/Cas9 Methode wäre
+schwierig. Ein anderes Problem stellt die Erzeugung herbizidtoleranter Sorten
+dar. Es hat sich beispielsweise in Argentinien gezeigt, dass durch den Anbau von
+glyphosatresistenten Sorten, sich die ausgebrachten Mengen an Glyphosat
+innerhalb von einem Jahrzehnt verdoppelt haben. Das ist dadurch zu erklären,
+dass die Wildpflanzen, die als Schädlinge angesehen werden, auch resistenter
+werden, sodass immer höhere Dosen oder weitere Herbizide angewendet werden, um
+diese zu bekämpfen. Die gestiegene Verwendung gefährdet somit die Artenvielfalt.
+
+### Kriterium 7: Voraussetzung für die Züchtung
+
+Bei der Kreuzungszüchtung ist die Voraussetzung, dass eine verwandte Pflanzenart
+verfügbar ist, welche die gewünschten Eigenschaften aufweist und das
+entsprechende Gen besitzt. Daraufhin kann die Kultursorte mit der verwandten Art
+gekreuzt werden. Hier ist der Vorteil, dass positive Eigenschaften schon durch
+Betrachtung des Phänotyps feststellbar sind. Das Genome Editing durch
+CRISPR/Cas9 kann angewendet werden, wenn in der Kultursorte bereits ein Gen
+vorhanden ist, welches vergleichbar aufgebaut ist, wie das Gen, welches eine der
+gewünschten verbesserten Eigenschaften codiert. Alternativ müssen die
+Gensequenzen für die neuen Eigenschaften bekannt sein, um das Genom entsprechend
+verändern zu können. Hier ist also der Nachteil, dass spezifische Kenntnisse
+über die Sequenzabfolge und die vorzunehmende Umschreibung der Sequenz vorhanden
+sein müssen. Es ist im Vorhinein eine intensive Genomforschung notwendig.
+
+### Kriterium 8: Vermarktung
+
+Wenn laut Gesetzeslage das Genome Editing als Gentechnik eingestuft ist, könnte
+dies eine negative Wirkung auf die öffentliche Wahrnehmung dieser neuen
+Technologie haben. Es wäre eine weniger erfolgreiche Vermarktung von Produkten
+möglich, die auf diese Weise hergestellt wurden. So könnten durch diese Methode
+erzeugte Nahrungsmittel in der breiten Bevölkerung als “Genfood” angesehen
+werden. CRISPR/Cas9 könnte abgelehnt werden, da die Allgemeinheit
+unkontrollierbare Risiken der Methode vermuten könnte. Hingegen befürchten
+Betreiber von ökologischer Landwirtschaft massive Einbußen der Einnahmen, falls
+CRISPR/Cas9 nicht mehr unter das Gentechnikgesetz fallen würde. Zum Beispiel
+wurden im Jahr 2022 mit biologisch erzeugten Lebensmitteln 15,3 Milliarden Euro
+umgesetzt. Die Folge der Lockerung der Gesetze wäre, dass konventionell
+gezüchtete Lebensmittel von NGT1-Pflanzen nicht mehr zu unterscheiden wären.
+Durch Genome Editing hergestellte Nahrungsmittel könnten dann auch unter dem
+Label "Ohne Gentechnik" verkauft werden.
+
+<!-- ### Referenzen -->
+
+<!-- -   Globale Folgen der Klimawandels: Klima-Krise bedroht die Welternährung - -->
+<!--     Wissen (stuttgarter-zeitung.de) -->
+<!-- -   Neue Züchtungstechniken in der Pflanzenzüchtung ("CRISPR/CAS & Co") - -->
+<!--     DLG-Merkblatt 468 - dlg.org -->
+<!-- -   Uddin F, Rudin CM, Sen T. CRISPR Gene Therapy: Applications, Limitations, -->
+<!--     and Implications for the Future. Front Oncol. 2020 Aug 7;10:1387. doi: -->
+<!--     10.3389/fonc.2020.01387. PMID: 32850447; PMCID: PMC7427626. -->
+<!-- -   Schindele, P., Wolter, F. and Puchta, H. (2018), Das CRISPR/Cas-System. -->
+<!--     Biol. Unserer Zeit, 48: 100-105. https://doi.org/10.1002/biuz.201810642 -->
+<!-- -   CRISPR/Cas in der Pflanzenzüchtung: Bedrohung oder Chance?: BZL -->
+<!--     (landwirtschaft.de) -->
+<!-- -   Sind neue genomische Techniken dasselbe wie die alte Gentechnik? Was die -->
+<!--     Wissenschaft sagt - Forschung - transgen.de -->
+<!-- -   Neue genomische Techniken: Zähes Ringen um eine Reform der -->
+<!--     Gentechnik-Gesetzte - Aktuell - transgen.de -->
+<!-- -   Neue genomische Techniken bei Pflanzen: Was die Gen-Schere kann - und was -->
+<!--     (noch) nicht - Forschung - transgen.de -->
+<!-- -   Klimaresiliente Pflanzen: Was bringt die Gen-Schere CRISPR/Cas? - -->
+<!--     Forschung - transgen.de -->
+<!-- -   Von Kreuzen bis Genome Editing: Die Verfahren der Pflanzenzüchtung im -->
+<!--     Überblick - Forschung - transgen.de -->
+<!-- -   CRISPR: Die bessere Gentechnik - Aktuell - transgen.de -->
+<!-- -   CRISPR/Cas in der Pflanzenzüchtung: Bedrohung oder Chance?: BZL -->
+<!--     (landwirtschaft.de) -->
+<!-- -   Neue Züchtungstechniken für höhere Rapserträge (uni-kiel.de) -->
+<!-- -   Lassoued R, Phillips PWB, Smyth SJ, Hesseln H. Estimating the cost of -->
+<!--     regulating genome edited crops: expert judgment and overconfidence. GM Crops -->
+<!--     Food. 2019;10(1):44-62. doi: 10.1080/21645698.2019.1612689. Epub 2019 May 9. -->
+<!--     PMID: 31070105; PMCID: PMC6592640. -->
+<!-- -   https://www.tagesschau.de/ausland/europa/eu-kommission-gentechnik-100.html -->

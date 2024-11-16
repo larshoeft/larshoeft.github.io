@@ -1,0 +1,13 @@
+::: {.callout-tip}
+
+### Hinweise
+
+-   Empfiehl in deiner **Einleitung** eine Handlungsoption.
+-   Formuliere in jedem **Argument** eine Behauptung aufbauend auf einem
+    Kriterium, nenne passende Fakten und erkläre, warum die Fakten deine
+    Behauptung stützen.
+-   Berücksichtige in jedem **Argument** alle Handlungsoptionen.
+-   Vergleiche in deinem **Schluss** die Bedeutsamkeit der Kriterien für deine
+    Entscheidung.
+
+:::

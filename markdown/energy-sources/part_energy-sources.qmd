@@ -1,0 +1,15 @@
+---
+title: "Energiewandler"
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+library(tidyverse)
+library(knitr)
+  
+source("../_common.R")
+```
+
+{{< include task_power-plants.qmd >}}
