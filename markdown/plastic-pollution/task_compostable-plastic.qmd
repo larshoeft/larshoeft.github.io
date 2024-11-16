@@ -1,0 +1,447 @@
+## PET Alternativen
+
+### Aufgabenstellung
+
+Die Produktion von Kunststoffen hat in den letzten Jahrzehnten stark zugenommen
+und ist von 1,7 Millionen Tonnen im Jahr 1950 auf 367 Millionen Tonnen im Jahr
+2020 gestiegen. Ein Teil des Plastikmülls gelangt in die Umwelt und führt dazu,
+dass jährlich über 1 Millionen Meeresbewohner verenden. Im Jahr 2021
+produzierten Einwohner in Deutschland pro Person ca. 41 kg Verpackungsmüll aus
+Kunststoff. Viele Verpackungen bestehen aus Polyethylenterephthalat (PET).
+Plastik ist in der Natur nicht vollständig abbaubar, sondern zersetzt sich in
+immer kleinere Partikel. Das entstandene Mikroplastik kann über Gewässer in die
+Nahrungskette gelangen und der Mensch nimmt es z. B. durch den Verzehr von Fisch
+auf. Im Mittel nimmt jeder Mensch laut einer Studie pro Woche 5 Gramm
+Mikroplastik -- das ist ungefähr das Gewicht einer Kreditkarte -- auf.
+
+Die Entwicklung und der Einsatz von nachhaltigen Plastik-Alternativen werden
+also immer ausschlaggebender. Aktuell wird darüber diskutiert, welcher
+biobasierter Kunststoff gefördert werden soll.
+
+Konkret wird beraten, ob
+
+a.  Polymilchsäure (PLA) oder
+b.  Polyhydroxyalkanoate (PHA)
+
+verstärkt für die Produktion von Kunststoff-Alternativen gefördert werden soll.
+
+Diskutieren Sie die vorgeschlagenen Kunststoff-Alternativen vor dem Hintergrund
+der Nachhaltigkeit auf der Basis von mindestens drei Kriterien aus den
+Materialien der folgenden Seiten. Stärken Sie Ihre Argumente, indem Sie die
+Relevanz der Kriterien für Ihre Behauptungen erklären.
+
+### Begrifflichkeiten
+
+Im Allgemeinen werden Biokunststoffe aus erneuerbaren Ressourcen hergestellt und
+es werden keine fossilen Brennstoffe verwendet. Konventionelles Plastik wird aus
+Rohöl hergestellt, was eine begrenzte Ressource ist. Kunststoff-Alternativen
+können verwendet werden, um Umweltproblemen entgegenzuwirken, welche
+beispielsweise durch die unsachgemäße Entsorgung von Plastikmüll entstehen. Im
+Gegensatz zu konventionellen Kunststoffen können Biokunststoffe zersetzt werden
+und die Einleitung von schädlichen Chemikalien in die Natur kann reduziert
+werden.
+
+Bei der Verwendung des Begriffs Biokunststoff ist zu beachten, dass er
+Materialien umfasst, die entweder aus nachwachsenden Rohstoffen (Biomasse)
+hergestellt werden, kompostierbar/biologisch abbaubar sind oder beide
+Eigenschaften besitzen.
+
+Laut Definition kann ein biobasiertes/biogenes Produkt vollständig oder
+teilweise aus Biomasse bestehen. Das heißt, dass Mischstoffe aus biobasierten
+und auch erdölbasierten Kunststoffen unter diesen Begriff fallen. Hier wird
+davon ausgegangen, dass die biobasierten Kunststoffe zu 100 % aus pflanzlichen
+Rohstoffen produziert wurden.
+
+### Polymilchsäure
+
+PLA ist ein Polyester, das aus nachwachsenden und natürlichen Rohstoffen
+hergestellt wird und industriell kompostiert werden kann. Es zählt zu den meist
+eingesetzten und vielversprechendsten Materialien für Kunststoff-Alternativen.
+Als Ausgangsmaterialien werden stärkereiche landwirtschaftliche Nebenprodukte
+und Produkte verwendet. Polymilchsäure wird produziert, indem Stärke extrahiert
+wird und mit Hilfe von Enzymen in Glucose umgewandelt wird. Mikroorganismen
+fermentieren Glucose in Milchsäure, die dann in Polylactid umgewandelt werden.
+PLA kann also durch Polykondensation von Milchsäure oder durch Polymerisation
+hergestellt werden.
+
+### Polyhydroxyalkanoate
+
+Polyhydroxyalkanoate sind Polyester, die ebenfalls aus natürlichen Rohstoffen
+hergestellt werden. Dies geschieht durch die Fermentation von Zuckern und
+Lipiden. Die Biopolymere werden von verschiedenen Mikroorganismen produziert und
+dienen ihnen als Speicherstoffe. Nachdem die Mikroorganismen im Nährmedium
+kultiviert wurden und eine bestimmte Zelldichte erreicht haben, werden
+Mangelbedingungen und ein Überschuss an Kohlenstoff eingestellt. Dadurch werden
+die Biopolyester im Cytoplasma synthetisiert und in Form von Körnchen (Granula)
+in den Zellen akkumuliert.
+
+Auch PHA wird weit verbreitet eingesetzt und scheint aussichtsreich zu sein.
+Polyhydroxybutyrat (PHB) ist der bekannteste Vertreter innerhalb der PHA
+Familie.
+
+### Kriterien
+
++--------------------+-------------------+------------------------+
+| **Kriterium**      | **Polymilchsäure  | **Polyhydroxyalkanoate |               
+|                    | (PLA)**           |  (PHA)**               |
++--------------------+-------------------+------------------------+
+| Menge              | 2,39 t bis 11,31  | 4,63 t bis 22 t pro    |
+| benötigter         | t pro 1 t PLA     | 1 t PHB                |
+| Rohstoffe          |                   |                        |
++--------------------+-------------------+------------------------+
+| Flächenbedarf      | 0,16 ha bis 1,04  | 0.30 ha bis 1.88 ha    |
+| der Rohstoffe      | ha pro 1 t PLA    | pro 1 t PHB            |
++--------------------+-------------------+------------------------+
+| Wasserbedarf       | 1215 m^3^ bis 6   | 2364  m^3^ bis         |
+| der Rohstoffe      | 468 m^3^          | 12867 m^3^             |
+|                    | pro 1 t PLA       | pro 1 t PHB            |
++--------------------+-------------------+------------------------+
+| Alternative        | in genetisch      | PHB in                 |
+| Herstellung        | veränderte        | Cyanobakterien         |
+|                    | *Escherichia      |                        |
+|                    | coli*             |                        |
++--------------------+-------------------+------------------------+
+| Biologische        | Temperatur:       | Temperatur:            |
+| Abbaubarkeit       |  58 °C            |  30 -- 35 °C           |
+|                    |                   |                        |
+|                    | Abbaubarkeit: 85  | Abbaubarkeit: 20       |
+|                    | -- 90 %           | -- 28 %                |
+|                    |                   |                        |
+|                    | Dauer: 65 Tage    | Dauer: 28 Tage         |
++--------------------+-------------------+------------------------+
+| Energiebedarf      | 57 MJ/kg          | 45 MJ/kg               |
++--------------------+-------------------+------------------------+
+| Treibhauspotential | 3,8 kg CO~2~e     | 3 kg CO~2~e            |
+|                    | pro kg PLA        | pro kg PHA             |
++--------------------+-------------------+------------------------+
+
+### Verwendete Rohstoffe
+
+Zur Herstellung von PLA können unterschiedliche Kohlenhydratquellen als
+Ausgangsstoffe verwendet werden. So kann neben Pflanzenöl der Zucker aus
+Zuckerrohr oder Zuckerrüben oder Stärke aus z. B. Mais oder Weizen verwendet
+werden.
+
+Die Menge an benötigtem Rohstoff ist mit 2,39 t Mais am geringsten und mit 11,31
+t Zuckerrohr am höchsten um 1 t PLA herzustellen. Vergleicht man diese Werte mit
+den notwendigen Mengen der gleichen Rohstoffe für die Herstellung von 1 t PHB,
+fallen diese geringer aus. Für die Herstellung von PHB wird also etwas mehr
+Rohstoff gebraucht. Für 1 t PHB werden beispielsweise 4,63 t Mais und 22 t vom
+Zuckerrohr eingesetzt. Dennoch bestimmt der verwendete, am jeweils besten
+geeignete Rohstoff, ob für die PLA- oder PHB-Produktion letztlich verwendet
+wird. Bei der Herstellung von Zucker entstehen beim Auspressen von Zuckerrohr
+faserige
+
+Überreste. Diese gemahlenen Fasern werden weiterverarbeitet. Zuckerrohr ist ein
+schnell nachwachsender Rohstoff, der sowohl kälte- als auch hitzebeständig sowie
+geschmacksneutral ist. Diese faserigen Überreste bilden die Grundlage für
+verschiedene biobasierte Kunststoffe. Produkte, die aus diesen Resten
+hergestellt werden, sind daher nachhaltig und der Ertrag ist hoch, weil aus 100
+Tonnen Zuckerrohr mehr als dreimal so viel faseriges Material gewonnen werden
+kann wie Zucker.
+
+Die Vielfalt der Ausgangsstoffe ermöglicht eine flexible und anpassungsfähige
+Produktion, je nach den lokalen Bedingungen. Dennoch ist es wichtig, möglichst
+wenig Rohstoffe zu verwenden, damit diese nicht an anderer Stelle wie in der
+Lebensmittelbranche oder im Futtermittelsektor fehlen. Um der Belastung der
+Anbauflächen entgegenzuwirken und die Umwelt zu schonen, ist die Verwendung von
+Reststoffen empfehlenswert.
+
+### Flächenbedarf der Rohstoffe
+
+Die benötigte Fläche für Rohstoffe, welche für eine Tonne PLA benötigt werden,
+unterscheidet sich leicht von der Fläche, die für eine Tonne PHB beansprucht
+wird. Der Flächenbedarf wird in Hektar (ha) angegeben. Um 1 t PLA zu
+produzieren, wird 0,16 ha (Zuckerrohr) bis 1,04 ha (Weizen) Fläche benötigt, um
+die erforderliche Menge des jeweiligen Rohstoffes anzubauen. Hingegen wird für
+die Herstellung von PHB eine Fläche von 0.30 ha (Zuckerrohr) bis 1.88 ha
+(Weizen) benötigt.
+
+Die landwirtschaftliche Nutzfläche in der Europäischen Union beträgt ca. 174
+Millionen ha. Im Vergleich dazu würden z. B. die zur Zeit erzeugten 100.000 t
+PLA-Fasern mit 16.000 ha (Zuckerrohr) bis 100.000 ha (Weizen) eine geringe
+Fläche einnehmen.
+
+Im Mittel nimmt die Produktion von PLA im Vergleich zu PHA weniger Fläche in
+Anspruch. Somit können auch der Verlust der biologischen Vielfalt und die
+Belastung der Böden geringer ausfallen. Es ist wichtig zu beachten, dass durch
+die Herstellung von Biokunststoffen eine Konkurrenz zwischen Anbauflächen für
+Rohstoffe für Alternative-Kunststoffe und Anbauflächen für Nahrungsmittel
+entstehen könnte. Die Verwendung von Reststoffen könnte diesem Problem aber
+entgegenwirken. Es könnte umweltschonend und nachhaltig gewirtschaftet werden,
+wenn nur Reste von Rohstoffen eingesetzt werden, die ansonsten verbrannt werden
+würden.
+
+### Wasserbedarf der Rohstoffe
+
+Auch die benötigte Menge an Wasser, die für die Herstellung der Rohstoffe
+benötigt wird, unterscheidet sich zwischen Polymilchsäure und
+Polyhydroxybutyrat. Der Wasserverbrauch wird in Kubikmetern angegeben. Für die
+Herstellung von einer Tonne PLA sind 1215 m^3^ (Zuckerrübe) bis 6468 m^3^
+(Weizen) Wasser notwendig. Hingegen werden 2364 m^3^ (Zuckerrübe) bis 12867 m^3^
+(Weizen) Wasser verwendet, um die Rohstoffe für die gleiche Menge PHB zu
+produzieren.
+
+Diese große Menge an Wasser kann durch eine alternative Produktion von PHB durch
+Cyanobakterien vermieden werden. Die Cyanobakterien benötigen keine intensive
+Bewässerung, wie der Anbau der Rohstoffe zur Produktion von PLA und PHA/PHB. So
+können Cyanobakterien in Abwassern wachsen und anfallender Stickstoff und
+Phosphat können zur Kultivierung genutzt werden. Auf diese Weise kann eine
+beträchtliche Menge an Süßwasser gespart werden. Diese Art der Herstellung von
+PHB verringert den Druck auf Gewässer, da keine landwirtschaftlichen Flächen
+benötigt werden, auf denen Pestizide eingesetzt werden, die anschließend ins
+Grundwasser gelangen. Zudem trägt dieser Ansatz zu einer effektiven
+Kreislaufwirtschaft bei, da die vorhandenen Nährstoffe im Abwasser genutzt
+werden. Indirekt kann durch diese Produktionsweise auch zum Klimaschutz
+beigetragen werden, da weniger kohlenstoffspeichernde Ökosysteme (z. B.
+Regenwälder) gerodet werden müssen.
+
+### Alternative Produktion
+
+Zudem besteht die Möglichkeit, auf die zuvor genannten Rohstoffe zu verzichten
+und durch den Einsatz von Bakterien Biokunststoff zu produzieren. *Escherichia
+coli* (*E. coli*) Bakterien können PLA direkt aus Traubenzucker herstellen.
+Dafür müssen die Organismen allerdings genetisch verändert werden. Zudem ist die
+Konzentration des erzeugten PLAs noch zu gering für eine industrielle Anwendung.
+Auch PHB kann in Bioreaktoren durch heterotrophe Bakterien wie *Cupriavidus
+necator* und ebenfalls durch genetisch veränderte *E. coli* hergestellt werden.
+Hier ist allerdings der Nachteil, dass für die Fermentationsprozesse immer noch
+viel organischer Kohlenstoff (z. B. Glucose) notwendig ist. Alternativ besteht
+die Möglichkeit, Cyanobakterien unter Nährstoffmangel für die Herstellung
+kleiner Mengen von PHB einzusetzen. Sie können durch die Fotosynthese Licht als
+Energie nutzen und dabei CO~2~ (Kohlenstoffdioxid) binden. So kann PHB auf eine
+nachhaltige Weise produziert werden und Flächen und Rohstoffe gespart werden.
+Dadurch wird die Umwelt geschont und auch die Effizienz kann durch die
+Produktion unter kontrollierten Bedingungen in Bioreaktoren gesteigert werden.
+Die dezentrale Einsetzbarkeit von Bioreaktoren reduziert die Transportwege.
+Obwohl diese Art der Produktion planbarer und stabiler ist als die Nutzung
+landwirtschaftlicher Rohstoffe, ist die Herstellung von genetisch veränderten
+Organismen zeitaufwendig und kostenintensiv.
+
+### Biologische Abbaubarkeit
+
+Biologische Abbaubarkeit bedeutet, dass ein Stoff in CO~2~, CH~4~ (Methan),
+Wasser, Biomasse und anorganische Verbindungen zersetzt werden kann. Für einen
+erfolgreichen Abbau müssen aber bestimmte Bedingungen vorherrschen, wie
+beispielsweise höhere Temperaturen, auch können Enzyme oder Mikroorganismen
+hinzugefügt werden. Es bedeutet also nicht, dass diese Materialien natürlich
+abbaubar sind und auf dem heimischen Kompost verrotten können.
+
+PLA lässt sich bei Temperaturen von ca. 58 °C und einer hohen Luftfeuchtigkeit
+von über 98 % biologisch abbaubar. Die Polymilchsäure wird durch Hydrolyse
+gespalten und anschließend durch Mikroorganismen zersetzt. Die biologische
+Abbaubarkeit beträgt 85-90 % innerhalb von ungefähr 65 Tagen. Im Meerwasser kann
+PLA fast nicht abgebaut werden und es wurden bereits durch PLA-Mikropartikel
+ausgelöste Stoffwechselveränderungen bei Miesmuscheln nachgewiesen. Hingegen
+können verschiedene PHAs in 28 Tagen beispielsweise zu 61 % (PHB) zersetzt
+werden. Zudem wurde nach Abbau keine Toxizität festgestellt und Testorganismen
+waren zu 100 % lebensfähig. Auch die Kompostiertemperatur von PHA hingegen ist
+mit Temperaturen 30-35 °C geringer. Ungefähr 20 bis 28 % können in 28 Tagen
+zersetzt werden.
+
+Eine schnelle Abbaubarkeit ist wichtig, da das Vorkommen in der Umwelt Tiere und
+Pflanzen belastet. Je schneller ein Material abgebaut wird, desto geringer ist
+die Wahrscheinlichkeit, dass es zu Mikroplastik zerfällt und in Nahrungsketten
+gelangt. Die Abbaubarkeit in natürlichen Umgebungen von PHB und vor allem PLA
+ist aber deutlich eingeschränkt. Die hohen benötigten Temperaturen für den Abbau
+in der Kompostieranlage verbrauchen Energie und könnten bei Nutzung nicht
+erneuerbarer Energiequellen den Klimawandel fördern. Da die erforderliche
+Temperatur für den Abbau von PLA höher ist, ist es wahrscheinlich, dass sich
+dessen Verwendung schädlicher auf das Klima auswirkt.
+
+### Energiebedarf
+
+Ein anderer wichtiger Faktor, um die Umweltauswirkungen besser einschätzen zu
+können, ist der Energiebedarf. Angegeben ist der Bedarf an Energie aus nicht
+erneuerbaren Quellen, welcher notwendig ist, um 1 kg des jeweiligen biobasierten
+Kunststoffes herzustellen. Der Energiebedarf wird in Megajoule (MJ) angegeben.
+Erdölbasierte Kunststoffe weisen in der Herstellung im Vergleich zu alternativen
+Kunststoffen mit mehr als 70 MJ pro kg Kunststoff (71.2 MJ/kg bei PET) einen
+höheren Verbrauch an fossilen Ressourcen auf. Aber auch zwischen den
+alternativen Kunststoffen gibt es Unterschiede. Die Herstellung von PLA ist
+energieintensiver als die von PHA. Denn für die Produktion von PLA sind 57 MJ/kg
+erforderlich. Hingegen benötigt man für 1 kg PHA nur 45 MJ. Die Einsparung von
+fossilen Ressourcen in MJ/kg ist im Gegensatz zu konventionellen Kunststoffen
+bei der Produktion von PLA niedriger als bei der von PHA.
+
+Der geringere Energiebedarf von PHA im Vergleich zu PLA führt zu einem
+geringeren Verbrauch an fossilen Brennstoffen, die eine wichtige Quelle für
+Treibhausgasemissionen sind. In Bezug auf die Auswirkungen auf das Klima wäre
+also eine Verwendung von PHA vorteilhaft. Der geringere Gesamtenergiebedarf
+könnte es eher möglich machen, diesen Energiebedarf durch erneuerbare
+Energiequellen zu decken. So kann letztendlich durch die Reduzierung der
+Treibhausgasemissionen der Klimawandel eingedämmt werden.
+
+### Treibhauspotential
+
+Als Charakterisierungsfaktor für die globale Erwärmung wird die
+CO~2~-Äquivalente (CO~2~e) verwendet. Sie ist eine Größe zur Vereinheitlichung
+der Klimawirkung der unterschiedlichen Treibhausgase und ist in kg CO~2~e pro
+kg hergestellten Bio-Kunststoff angegeben. Kunststoffe, die aus fossilem
+Kohlenstoff bestehen, tragen zur Freisetzung von mehr klimawirksamen
+Treibhausgasen bei. Berechnungen haben ergeben, dass 241-316 Millionen Tonnen
+CO2-Äquivalent pro Jahr bei Verwendung von Biokunststoffen gespart werden
+können. So werden bei der Produktion von Biokunststoffen 80 % weniger CO~2~ in
+die Atmosphäre abgegeben als bei der Erzeugung konventioneller Kunststoffe.
+Vergleicht man das Treibhauspotential zwischen PLA und PHA, so fällt dieses mit
+3,8 kg CO~2~-Äquivalent pro kg Polymilchsäure höher aus als bei
+Polyhydroxyalkanoate mit ca. 3 kg CO~2~-Äquivalent pro kg des alternativen
+Kunststoffes. Somit spart PHA mehr Treibhausgasemissionen ein als PLA.
+
+Bei der Betrachtung der Klimawirkung ist es wichtig, alle Phasen des
+Produktlebenszyklus zu berücksichtigen. Es sollte beachtet werden, dass bei
+biobasierten Kunststoffen das während des Pflanzenwachstums aufgenommene CO~2~
+in der Bilanz berücksichtigt wird, was zu einer Verbesserung des
+Treibhauspotenzials führt.
+
+Die geringere CO~2~e bei der Produktion von PHA im Vergleich mit PLA geht mit
+einem niedrigeren Vorkommen von Treibhausgasen in der Atmosphäre einher, was den
+Treibhauseffekt und damit die globale Erwärmung reduziert. So kann es möglich
+sein, den Klimawandel und dessen negative Auswirkungen zu begrenzen und
+angestrebte Klimaziele zu erreichen.
+
+<!-- ### Quellen -->
+
+<!-- -   [7 Plastik Alternativen aus der Forschung -->
+<!--     CareElite](https://www.careelite.de/plastik-alternativen-forschung/#:~:text=Welche%20Plastik%20Alternativen%20aus%20der%20Forschung%20gibt%20es%3F,Hanf%20...%207%207.%20Plastik%20von%20Schalentieren%20) -->
+
+<!-- -   [So lange braucht Abfall, um zu -->
+<!--     verrotten](https://utopia.de/ratgeber/so-lange-braucht-abfall-um-zu-verrotten/) -->
+
+<!-- -   [Plastikmüll und seine Folgen -->
+<!--     NABU](https://www.nabu.de/natur-und-landschaft/meere/muellkippe-meer/muellkippemeer.html) -->
+
+<!-- -   [Weichmacher in Plastik: So gesundheitsschädlich sind -->
+<!--     Phthalate](https://www.aok.de/pk/magazin/nachhaltigkeit/muell-vermeiden/weichmacher-in-plastik-so-gesundheitsschaedlich-sind-phthalate/) -->
+
+<!-- -   [Neue WWF-Studie zeigt die unglaublichen Kosten der Plastik-Krise - WWF -->
+<!--     Österreich](https://www.wwf.at/neue-wwf-studie-zeigt-die-unglaublichen-kosten-der-plastik-krise/) -->
+
+<!-- -   [Klimaneutral und schnell abbaubar: Bio-Kunststoff aus Cyanobakterien - -->
+<!--     Forschung - -->
+<!--     transgen.de](https://www.transgen.de/forschung/2808.bio-kunststoff-cyanobakterien.html) -->
+
+<!-- -   https://www.spektrum.de/news/bakterien-erzeugen-biokunststoff/1015024 -->
+
+<!-- -   [Biokunststoffe](https://link.springer.com/chapter/10.1007/978-3-658-27795-6_2) -->
+
+<!-- -   [nova-Institut -->
+<!--     (wip-kunststoffe.de)](https://wip-kunststoffe.de/fileadmin/user_upload/news_downloads/nova-Institut.pdf) -->
+
+<!-- -   Durable Polylactic Acid (PLA)-Based Sustainable Engineered Blends and -->
+<!--     Biocomposites: Recent Developments, Challenges, and Opportunities Neelima -->
+<!--     Tripathi, Manjusri Misra, and Amar K. Mohanty ACS Engineering Au 2021 1 (1), -->
+<!--     7-38 DOI: 10.1021/acsengineeringau.1c00011 -->
+
+<!-- -   [Zuckerrohr-Verpackungen für die Umwelt -->
+<!--     \|Verpacknachhaltig](https://verpacknachhaltig.de/zuckerrohr-verpackung/) -->
+
+<!-- -   [Was ist Bagasse? Unsere Materialkunde zum nachhaltigen Verpackungsmaterial -->
+<!--     -packVerde -->
+<!--     (pack-verde.com)](https://www.pack-verde.com/blog/at/materialkunde/materialkunde-bagasse/) -->
+
+<!-- -   [Bagasse: Plastikalternative aus Zuckerrohr -->
+<!--     -Utopia.de](https://utopia.de/ratgeber/bagasse-plastikalternative-aus-zuckerrohr/) -->
+
+<!-- -   [Was sind die Vor- und Nachteile von Bagasse? - Nachricht -->
+<!--     (zc-pak.com)](https://de.zc-pak.com/news/what-is-bagasse-advantages-and-disadvantages-66845834.html#:~:text=Nachteile%20von%20Bagasse%3A%201%201.%20Nicht%20wasserfest%3A%20Bagasse,um%20in%20brauchbare%20Produkte%20umgewandelt%20zu%20werden.%20) -->
+
+<!-- -   [Einweggeschirr: Wie nachhaltig sind Plastikalternativen? - -->
+<!--     Utopia.de](https://utopia.de/ratgeber/einweggeschirr-wie-nachhaltig-sind-die-alternativen-zu-plastik/) -->
+
+<!-- -   <https://utopia.de/news/verbraucherzentralen-warnen-bambusgeschirr-plastik/> -->
+
+<!-- -   [Wie nachhaltig ist der Kunststoff? - -->
+<!--     Utopia.de](https://utopia.de/ratgeber/pla-wie-nachhaltig-ist-der-kunststoff/#:~:text=Das%20Umweltbundesamt%20best%C3%A4tigt%2C%20dass%20PLA-Kunststoff%20biologisch%20abbaubar%20ist.,zu%20Folie%20verarbeiten%20und%20ist%20fest%20und%20stabil.) -->
+
+<!-- -   [Wie nachhaltig ist PLA Filament wirklich? -->
+<!--     -3Dnatives](https://www.3dnatives.com/de/feature-story-3d-druck-material-pla-nachhaltig-230720191/) -->
+
+<!-- -   [Polylactid (PLA) -->
+<!--     --Biokunststofftool](https://biokunststofftool.de/werkstoffe/pla-polylactid/#Werkstoffhersteller) -->
+
+<!-- -   Al-Khairy D, Fu W, Alzahmi AS, Twizere JC, Amin SA, Salehi-Ashtiani K, -->
+<!--     Mystikou A. Closing the Gap between Bio-Based and Petroleum-Based Plastic -->
+<!--     through Bioengineering. Microorganisms. 2022 Nov 23;10(12):2320. doi: -->
+<!--     10.3390/microorganisms10122320. PMID: 36557574; PMCID: PMC9787566. -->
+
+<!-- -   [Polymilchsäure](https://link.springer.com/chapter/10.1007/978-3-662-64469-0_35) -->
+
+<!-- -   [Biopolymers-Facts-Statistics-2020](https://www.ifbb-hannover.de/files/IfBB/downloads/faltblaetter_broschueren/f+s/Biopolymers-Facts-Statistics-2020.pdf) -->
+
+<!-- -   [Biokunststoffe - -->
+<!--     FraunhoferINT](https://www.int.fraunhofer.de/de/geschaeftsfelder/corporate-technology-foresight/trend-news/biokunststoffe.html) -->
+
+<!-- -   [https://de.statista.com/](https://de.statista.com/statistik/daten/studie/206250/umfrage/landwirtschaftliche-nutzflaeche-in-deutschland/#:~:text=2023%20lag%20die%20landwirtschaftliche%20Nutzfl%C3%A4che%20in%20Deutschland%20bei,dem%20Vorjahr%20blieb%20die%20Agrarfl%C3%A4che%20somit%20nahezu%20konstant). -->
+
+<!-- -   Tanadchangsaeng N, Pattanasupong A. Evaluation of Biodegradabilities of -->
+<!--     Biosynthetic Polyhydroxyalkanoates in Thailand Seawater and Toxicity -->
+<!--     Assessment of Environmental Safety Levels. Polymers (Basel). 2022 Jan -->
+<!--     21;14(3):428. doi: 10.3390/polym14030428. PMID: 35160420; PMCID: PMC8840047. -->
+
+<!-- -   Bioplastic: An Eco‐friendly Alternative of Non‐Biodegradable Plastic June -->
+<!--     2023 DOI:10.1002/pi.6555 -->
+
+<!-- -   Serrano-Aguirre L, Prieto MA. Can bioplastics always offer a truly -->
+<!--     sustainable alternative to fossil-based plastics? Microb Biotechnol. 2024 -->
+<!--     Apr;17(4):e14458. doi: 10.1111/1751-7915.14458. PMID: 38568795; PMCID: -->
+<!--     PMC10990045. -->
+
+<!-- -   [Review of recent advances in the biodegradability of polyhydroxyalkanoate -->
+<!--     (PHA) bioplastics and their composites - Green Chemistry (RSC -->
+<!--     Publishing)](https://pubs.rsc.org/en/content/articlelanding/2020/gc/d0gc01647k#:~:text=PHAs%20such%20as%20poly%20%283-hydroxybutyrate%29%20%28PHB%29%20and%20poly,the%20negativity%20associated%20with%20the%20landfilling%20of%20plastics.) -->
+
+<!-- -   Piemonte, Vincenzo. (2011). 1. V. Piemonte, F. Gironi. Bioplastics and -->
+<!--     Petroleum-based Plastics: Strengths and Weaknesses, Energy Sources Part A: -->
+<!--     Energy, recovery and Environmental Effect, 2011, 33, 1949-1959. (DOI: -->
+<!--     10.1080/15567030903436830). Energy Sources Part A Recovery Utilization and -->
+<!--     Environmental Effects. -->
+
+<!-- -   [PET, PE und PVC: Das müssen Sie über Kunststoffe wissen \| -->
+<!--     Verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/lebensmittel/lebensmittelproduktion/kunststoffe-7035) -->
+
+<!-- -   [Polyethylenterephthalat -->
+<!--     (chemie.de)](https://www.chemie.de/lexikon/Polyethylenterephthalat.html) -->
+
+<!-- -   Soong, Y.-H.V.; Sobkowicz, M.J.; Xie, D. Recent Advances in Biological -->
+<!--     Recycling of Polyethylene Terephthalate (PET) Plastic Wastes. Bioengineering -->
+<!--     2022, 9, 98. https://doi.org/10.3390/bioengineering9030098 -->
+
+<!-- -   ["Nein zur Wegwerfgesellschaft" -- 5-Punkte-Plan des -->
+<!--     Bundesumweltministeriums für weniger Plastik und mehr -->
+<!--     Recycling(bmuv.de)](https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Abfallwirtschaft/181123_5_punkte_plan_plastik_bf.pdf) -->
+
+<!-- -   [Plastikmüll Statistiken in Deutschland, weltweit und im Meer -->
+<!--     (2023)(aktivbewusst.de)](https://aktivbewusst.de/plastikmuell-statistiken-deutschland-weltweit/#t-1691126514865) -->
+
+<!-- -   [So werden Plastikflaschen wiederverwertet -->
+<!--     -quarks.de](https://www.quarks.de/umwelt/muell/so-werden-plastikflaschen-wiederverwertet/) -->
+
+<!-- -   [EU packaging waste generation with record increase - Eurostat -->
+<!--     (europa.eu)](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20231019-1) -->
+
+<!-- -   [Plastikatlas 2019 -->
+<!--     (boell.de)](https://www.boell.de/sites/default/files/2019-11/Plastikatlas_2019_3._Auflage.pdf) -->
+
+<!-- -   171025-nabu-01b_studie_verwendung-und-recycling-pet-deutschland.pdf(https://www.nabu.de/imperia/md/content/nabude/veranstaltungen/171025-nabu-01b_studie_verwendung-und-recycling-pet-deutschland.pdf) -->
+
+<!-- -   [Landwirtschaftszählung 2020 - Statistisches Bundesamt -->
+<!--     (destatis.de)](https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Landwirtschaft-Forstwirtschaft-Fischerei/Landwirtschaftszaehlung2020/_inhalt.html) -->
+
+<!-- -   [PET: Produktion in Deutschland bis 2023 \| -->
+<!--     Statista](https://de.statista.com/statistik/daten/studie/1285091/umfrage/polyethylenterephthalat-produktion-in-deutschland/#:~:text=Im%20Jahr%202023%20wurden%20in%20Deutschland%20seitens%20der,vorwiegend%20bei%20der%20Produktion%20von%20Kunststoffflaschen%20verwendet%20wird.) -->
+
+<!-- -   [PET global production 2020 -->
+<!--     \|Statista](https://www.statista.com/statistics/650191/global-polyethylene-terephthalate-production-outlook/) -->
+
+<!-- -   https://www.umweltbundesamt.de/biobasierte-biologisch-abbaubare-kunststoffe#310-bieten-verpackungen-aus-biologisch-abbaubaren-kunststoffen-vorteile -->
+
+<!-- -   [Material_choices_211020.pdf -->
+<!--     (greentechknowledgehub.de)](https://greentechknowledgehub.de/sites/default/files/2021-10/Material_choices_211020.pdf) -->
+
+<!-- -   Energy Inputs on the Production of Plastic Products September 2022Journal of -->
+<!--     Ecological Engineering 23(9):146-156 23(9):146-156 -->
+<!--     DOI:10.12911/22998993/151815 -->
+
+<!-- -   [Effiziente Biokunststoff Herstellung mit Industriezentrifugen -->
+<!--     (flottweg.com)](https://www.flottweg.com/de/anwendungen/pharmazie-und-biotechnologie/biokunststoff/) -->

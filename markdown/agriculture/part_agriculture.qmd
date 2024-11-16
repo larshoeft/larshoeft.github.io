@@ -1,0 +1,22 @@
+---
+title: "Ernährung und Ernährungsformen"
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+library(tidyverse)
+library(khroma)
+library(knitr)
+
+source("../_common.R")
+```
+
+{{< include task_diets-omnivor-vegan.qmd >}}
+
+{{< include task_diets-omnivor-vegetarian.qmd >}}
+
+{{< include task_diets-supp.qmd >}}
+
+{{< include task_gmo.qmd >}}

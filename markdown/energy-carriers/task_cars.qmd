@@ -1,0 +1,197 @@
+## Verkehr
+
+Die Treibhausgasemissionen des Personenverkehrs sollen drastisch reduziert
+werden, um die Klimaneutralität zu erreichen. Daher wird von der Politikerinnen
+und Politikern gefordert, dass Neuwagen mit einem Benzin- und Dieselmotor ab
+2035 verboten werden. Konkret wird beraten, ob ein Umstieg auf Autos mit
+
+1.  Akkumulatoren,
+2.  Wasserstoff oder
+3.  E-Fuels (synthetische Kraftstoffe)
+
+als Energieträger gezielt gefördert werden soll.
+
+**Diskutiere** die genannten Energieträger vor dem Hintergrund des Klimawandels.
+Verwende insgesamt mindestens drei Kriterien aus den Materialien.
+
+{{< include ../_hints.qmd >}}
+
+### Kriterienübersicht
+
+{{< include task_cars_table.qmd >}}
+
+### Begrifflichkeiten
+
+Alle drei Energieträger gelten als klimaneutral, sofern elektrische Energie aus
+erneuerbaren Energien genutzt wird.
+
+**Akkumulatoren** sind wiederaufladbare elektrochemische Zellen, die aktuell auf
+Basis von Lithium-Verbindungen hergestellt werden. Akkumulatoren können geladen
+werden, indem sie an das Stromnetz angeschlossen werden. Akkumulatoren können
+nur in speziell konzipierten Autos mit Elektromotor genutzt werden. In diesen
+Autos werden Akkumulatoren fest eingebaut, um einen Elektromotor zu betreiben.
+Bei der chemischen Reaktion, die im Akkumulator abläuft, wird kein Stoff
+freigesetzt.
+
+**Wasserstoff** ist ein Reinstoff, der unter Standardbedingungen als Gas
+vorliegt. Wasserstoff wird mittels Wasserelektrolyse hergestellt. Wasserstoff
+kann nur in speziell konzipierten Autos mit Brennstoffzelle und Elektromotor
+genutzt werden. In diesen Autos wird Wasserstoff in Drucktanks transportiert und
+in einer Brennstoffzelle mit Sauerstoff umgesetzt, um einen Elektromotor zu
+betreiben. Bei der chemischen Reaktion, die in der Brennstoffzelle abläuft,
+entsteht als Produkt Wasser.
+
+**E-Fuels** sind Stoffgemische aus Kohlenwasserstoffen, die unter
+Standardbedingungen als Flüssigkeit vorliegen. E-Fuels werden aus Wasserstoff
+und Kohlenstoffdioxid, das der Atmosphäre entnommen wird, hergestellt. E-Fuels
+können in konventionellen Autos mit Verbrennungsmotor genutzt werden. In diesen
+Autos werden E-Fuels in Flüssigkeitstanks transportiert und in
+Verbrennungsmotoren mit Sauerstoff umgesetzt. Bei der Verbrennungsreaktion, die
+im Motorraum abläuft, entsteht als Produkt u. a. Kohlenstoffdioxid. Insgesamt
+wird der Atmosphäre bei der Synthese genauso viel Kohlenstoffdioxid entnommen,
+wie bei der Verbrennung freigesetzt wird.
+
+### Kriterium 1: Energiedichte
+
+Die Energiedichte gibt an, wie viel Energie pro Masse eines Stoffes bzw. eines
+Systems gespeichert werden kann. Die Energiedichte ist der maßgebliche Faktor
+für die Masse eines Energiespeichers (hier Tank bzw. Akkumulator). Je höher die
+massenbezogene Energiedichte, desto mehr Energie kann bei gleicher Masse
+gespeichert werden. Der Einsatz von Energieträger mit einer höheren
+Energiedichte könnte somit u. a. die Konstruktion von Autos mit geringerer Masse
+oder größerer Reichweite ermöglichen.
+
+### Kriterium 2: Gesamtwirkungsgrad
+
+Der Gesamtwirkungsgrad beziffert, wie effizient die elektrische Energie der
+erneuerbaren Energien zum Autofahren genutzt wird. In die Berechnung des
+Gesamtwirkungsgrads fließt der gesamte Prozess von der Bereitstellung der
+Energie (bspw. durch Windenergieanlagen) bis zur Nutzung beim Autofahren ein
+(genauer: Verhältnis aus "genutzter" Bewegungsenergie und zugeführter
+elektrischer Energie). Je höher der Gesamtwirkungsgrad ist, desto weniger
+Energie wird während des Prozesses an die Umgebung abgegeben. Je niedriger der
+Gesamtwirkungsgrad ist, desto mehr elektrische Energie muss bereitgestellt
+werden, um dieselbe Strecke zu fahren.
+
+```{r}
+#| label: fig-cars-crit1-battery
+#| echo: false
+#| fig-cap: |
+#|   Energieflussdiagramm von Bereitstellung der elektrischen Energie bis zum Antrieb des Autos
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+knitr::include_graphics("task_cars_fig_crit1_battery.png", dpi = 270)
+```
+
+Bei mit **Akkumulator** betriebenen Autos wird die elektrische Energie direkt
+zum Laden des Akkumulators genutzt. Der Akkumulator wird zum Betrieb des
+Elektromotors genutzt.
+
+```{r}
+#| label: fig-cars-crit1-hydro
+#| echo: false
+#| fig-cap: |
+#|   Energieflussdiagramm von der Synthese des Wasserstoffs bis zum Antrieb des Autos
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+knitr::include_graphics("task_cars_fig_crit1_hydro.png", dpi = 270)
+```
+
+Bei mit **Wasserstoff** betriebenen Autos wird die elektrische Energie genutzt,
+um Wasserstoff mittels Wasserelektrolyse zu erzeugen. Der Wasserstoff reagiert
+mit Sauerstoff in der Brennstoffzelle des Autos. Hierbei wird chemische in
+elektrische Energie umgewandelt, sodass der Elektromotor betrieben werden kann.
+
+```{r}
+#| label: fig-cars-crit1-e-fuels
+#| echo: false
+#| fig-cap: |
+#|   Energieflussdiagramm von der Synthese der E-Fuels bis zum Antrieb des Autos
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+knitr::include_graphics("task_cars_fig_crit1_e-fuels.png", dpi = 270)
+```
+
+Bei mit **E-Fuels** betriebenen Autos wird Wasserstoff, der durch
+Wasserelektrolyse bereitgestellt wird, mit Kohlenstoffdioxid, das aus der
+Umgebungsluft gefiltert wird, zu E-Fuels umgesetzt. E-Fuels werden zum Betrieb
+des Verbrennungsmotors genutzt.
+
+### Kriterium 3: Treibhausgasemissionen bei der Produktion
+
+CO~2~-Äquivalente ist eine Größe zur Vereinheitlichung der Klimawirkung
+der unterschiedlichen Treibhausgase und wird in der Einheit Tonne (t) angegeben.
+Die Produktion von Autos ist ein energieintensiver Prozess, bei dem
+Treibhausgase emittiert werden. In die Kalkulation der Treibhausgasemissionen
+gehen die Emission bei der Gewinnung und Aufbereitung der Rohstoffe sowie deren
+Weiterverarbeitung im Herstellungsprozess der Autos mit ein.
+
+Bei mit **Akkumulator** betriebenen Autos entfällt ein Großteil der
+Treibhausgasemissionen auf die Aufbereitung von Lithium und die Herstellung des
+Akkumulators. Je größer der Akkumulator ist, desto mehr Treibhausgase werden
+emittiert. Bei Klein- und Mittelwagen entfallen mehr Treibhausgasemissionen auf
+die Herstellung eines mit Wasserstoff betriebenen Autos mit Brennstoffzelle als
+auf eines mit Akkumulator (s. Tabelle). Auf die Herstellung eines Autos der
+Oberklasse mit Akkumulator entfallen jedoch mehr Treibhausgasemissionen (18,6 t
+CO~2~-Äquivalent) als auf ein mit Wasserstoff betriebenes Auto mit
+Brennstoffzelle (13,5 t CO~2~-Äquivalent).
+
+Bei mit **Wasserstoff** betriebenen Autos entfällt ein Großteil der
+Treibhausgasemissionen auf die Aufbereitung von Platin und die Herstellung der
+Brennstoffzelle. Der zusätzliche Akkumulator fällt hier wesentlich kleiner aus.
+
+Bei mit **E-Fuels** betriebenen Autos entfällt ein Großteil der
+Treibhausgasemissionen auf die Aufbereitung von Platin und Palladium und die
+Herstellung des Verbrennungsmotors sowie des Katalysators.
+
+### Kriterium 4: Verfügbarkeit
+
+Mit **Akkumulator** betriebene Autos werden bereits in Massenproduktion von fast
+allen Herstellern produziert und verkauft.
+
+Mit **Wasserstoff** betriebene Autos werden nur von einigen wenigen Herstellern
+und in nur sehr begrenzter Anzahl weiterentwickelt und produziert. In
+Deutschland werden insgesamt nur zwei verschiedene Modelle verkauft. Viele
+Hersteller entwickeln derzeit keine Wasserstoffautos.
+
+Mit **E-Fuels** können alle konventionellen Autos mit Verbrennungsmotor
+betrieben werden. Diese Autos werden im großen Maßstab von fast allen namhaften
+Herstellern weiterentwickelt, produziert und verkauft. Zudem könnten bereits
+gekaufte Autos weiterverwendet werden.
+
+### Kriterium 5: Betrieb
+
+Wichtige Faktoren für den Betrieb eines Autos sind dessen Reichweite und die
+Tank- bzw. Ladedauer. Im Mittel unternehmen Personen in Deutschland drei Fahrten
+pro Tag mit dem Auto, wobei sie zwischen 30 und 40 Kilometer zurücklegen. Nur
+ca. 1 % aller Autofahrten ist länger als 100 Kilometer. Im Mittel sind Autos
+mehr als 23 Stunden am Tag geparkt, davon über 20 Stunden am Wohnort.
+
+### Kriterium 6: Geräuschemissionen
+
+Autos, die mit **Akkumulator** und mit **Wasserstoff** betrieben werden, weisen
+die gleichen Geräuschemissionen auf. Bei niedrigen Geschwindigkeiten unter 30
+km/h liegen diese unter 57 dB. Bei höheren Geschwindigkeiten überwiegt die
+Geräuschentwicklung durch Rollreibung und Windwiderstand.
+
+Autos, die mit **E-Fuels** betrieben werden, weisen bei niedrigen
+Geschwindigkeiten unter 30 km/h schon Geräuschemissionen von ca. 61 dB auf.
+Diese sind u. a. auf die Geräuschentwicklung des Verbrennungsmotors
+zurückzuführen. Insbesondere beim Anfahren, bspw. an Ampeln, treten höhere
+Geräuschemissionen auf. Bei höheren Geschwindigkeiten hat die
+Geräuschentwicklung durch Rollreibung und Windwiderstand eine zunehmend größere
+Bedeutung.
+
+Lärm ist ein Stressfaktor und hat negative Auswirkungen auf die Gesundheit, da
+es das autonome Nervensystem und das hormonelle System aktiviert. Straßenlärm
+kann zu Schlafstörungen, Bluthochdruck führen und steigert das
+Herzinfarkt-Risiko um bis zu 20 -- 30%.
