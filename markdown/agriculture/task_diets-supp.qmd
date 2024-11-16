@@ -1,0 +1,210 @@
+## Zusätzliche Informationen und Formulierungen
+
+### Anteil an VeganerInnen und VegetarierInnen
+
+Im Allgemeinen nimmt der Fleischkonsum in Deutschland tendenziell ab. Dennoch
+konsumiert die Mehrheit der Bevölkerung mit 47 % regelmäßig Fleisch, während 41
+% der Menschen gelegentlich \[Richtgröße Flexitarismus: Fleischverzicht an
+mindestens 3 Tagen pro Woche\] Fleisch konsumieren. Hingegen gaben 9 % der
+Befragten an, sich vegetarisch zu ernähren. 3 % bezeichnen sich als
+VeganerInnen. Dabei liegt der Anteil an Vegetarierinnen mit 12 % doppelt so hoch
+wie der Anteil der Männer, die sich vegetarisch ernähren. Auch sind Unterschiede
+zwischen den verschiedenen Altersstufen zu beobachten, denn doppelt so viele 15-
+bis 29-Jährige ernähren sich im Vergleich zur Gesamtbevölkerung vegetarisch oder
+vegan. Während 15 % der unter 30-jährigen VegetarierInnen sind, gaben unter den
+ab 60 Jährigen nur noch 6 % an, sich vegetarisch zu ernähren.
+
+```{r}
+#| label: fig-agriculture-diets-supp-pop1
+#| echo: false
+#| fig-cap: |
+#|   Communication is the final part of the data science process; if you
+#|   can't communicate your results to other humans, it doesn't matter how
+#|   great your analysis is.
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+#knitr::include_graphics("task_diets-supp_fig_pop1.png", dpi = 270)
+```
+
+```{r}
+#| label: fig-agriculture-diets-supp-pop2
+#| echo: false
+#| fig-cap: |
+#|   Communication is the final part of the data science process; if you
+#|   can't communicate your results to other humans, it doesn't matter how
+#|   great your analysis is.
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+#knitr::include_graphics("task_diets-supp_fig_pop2.png", dpi = 270)
+```
+
+### Gesundheit contra tierische Produkte
+
+Der hohe Konsum von Fleisch, besonders rotem und verarbeitetem Fleisch kann
+krankheitsfördernd sein. Zu rotem Fleisch zählen beispielsweise Rind, Kalb,
+Schwein und Wild. Ein übermäßiger Verzehr kann Darmkrebs begünstigen, da die
+Aufnahme von zu viel Eisen die Zellen schädigen könnte. Enthaltene gesättigte
+Fettsäuren und Cholesterin können den Blutfettspiegel erhöhen und zu einer
+Begünstigung von Herz-Kreislauf-Erkrankungen führen. Hingegen kann der Verzehr
+von Obst, Gemüse und Getreide das Risiko für entzündliche Erkrankungen sowie
+Diabetes Typ 2 reduzieren. Auch wird verarbeitetes Fleisch mit viel Salz
+vermengt. Die Aufnahme von zu viel Salz kann den Bluthochdruck erhöhen, was zu
+einem Herzinfarkt und Schlaganfall führen kann. Eine hohe Zufuhr von Speisesalz
+scheint zudem mit dem Magenkrebsrisiko assoziiert zu sein. Zudem können sich
+Rückstände von Medikamenten im Fleisch befinden. In Deutschland wird dabei
+vergleichsweise viel Antibiotika eingesetzt. Je Kilogramm Fleisch werden in
+Deutschland im Durchschnitt 88 Milligramm Antibiotika eingesetzt, während es in
+Dänemark weniger als die Hälfte ist. Ein Problem ist die Hochleistungszucht, da
+die hohe Milchleistung die Körper der Kühe überfordert. Es entstehen
+Entzündungen, die einen ständigen Einsatz von Antibiotika erfordern. Die Menge
+der Antibiotikarückstände ist aber aus toxikologischer Sicht unbedenklich.
+Dennoch fördert der hohe Antibiotikaeinsatz das Entstehen von resistenten
+Keimen. Diese gelangen in die Umwelt und tragen dazu bei, dass einfache
+Entzündungen Komplikationen mit sich bringen, da die Antibiotika nicht mehr
+wirken.
+
+### Gesundheit pro tierische Produkte
+
+Fleisch stellt eine gute Proteinquelle dar. Besonders Muskelfleisch enthält
+besonders hochwertiges Eiweiß mit vielen essentiellen Aminosäuren. Tierisches
+Protein weist eine besonders hohe Bioverfügbarkeit auf. Das bedeutet, dass der
+menschliche Körper die Aminosäuren gut aufnehmen und in körpereigene Proteine
+umwandeln kann. Fleisch ist für eine ausgewogene Ernährung wichtig und enthält
+verschiedene Nährstoffe. Beispielsweise ist Vitamin B12 für die Bildung und
+Reifung roter Blutkörperchen sowie für eine normale Funktion des Nervensystems
+notwendig. Es ist in tierischen Lebensmitteln vorhanden. Es kommt in Fleisch vor
+und die Konzentration variiert je nach Fleischart. Auch in Milchprodukten und
+Eiern ist Vitamin B12 vorhanden, aber in einer geringeren Menge im Vergleich zu
+Fleisch. In pflanzlichen Nahrungsmitteln kommt es natürlicherweise nicht vor.
+Ein weiterer wichtiger Nährstoff ist das Spurenelement Eisen. Dieses ist wichtig
+für die Sauerstoffversorgung, den Energiestoffwechsel und die Immunfunktion des
+menschlichen Körpers. Die Aufnahme erfolgt im Dünndarm. Besonders dunkelrotes
+Fleisch wie Rind, Kalb, Wild und Innereien enthalten besonders viel Eisen. Der
+Vorteil hierbei ist, dass das Eisen in der zweiwertigen Form (Fe^2+^) vorliegt
+und vom Körper gut aufgenommen werden kann. Es weist also eine höhere
+Bioverfügbarkeit auf und ist unabhängig von Umwandlungsprozessen. Im Gegensatz
+dazu enthalten pflanzliche Lebensmittel dreiwertiges Eisen (Fe^3+^). Um diese
+Form des Eisens verwerten zu können, sind zusätzliche Schritte erforderlich. Das
+dreiwertige Eisen muss im Dünndarm erst in zweiwertiges Eisen umgewandelt
+werden, da der für die Aufnahme zuständige Transporter nur zweiwertige
+Eisenionen befördern kann. Für diese Umwandlung ist die Anwesenheit eines Enzyms
+erforderlich. Zudem ist zu beachten, dass einige pflanzliche Lebensmittel
+Hemmstoffe, wie z. B. Tannin, Phosphat oder Oxalsäure enthalten, welche die
+Eisenaufnahme beeinträchtigen. Auch Milchprodukte und Eier enthalten in geringen
+Mengen dreiwertiges Eisen. In Milch enthaltene Nährstoffe, wie Calcium, können
+die Absorption von Eisen hemmen. Laut Deutscher Gesellschaft für Ernährung seien
+Fleischersatzprodukte hoch verarbeitet, können ernährungsphysiologisch ungünstig
+zusammengesetzt sein und seien daher nicht unbedingt gesundheitsfördernd. Häufig
+enthalten sie hohe Mengen an Salz, Zucker und weisen zum Teil ungesunde
+Zusatzstoffe auf. Dabei können beispielsweise Konservierungsstoffe,
+Geschmacksverstärker und Verdickungsmittel enthalten sein. Studien konnten
+zeigen, dass stark verarbeitete Lebensmittel Entzündungen fördern und das
+Darmmikrobiom verändern können. Auch eine zu hohe Aufnahme von Salz kann den
+Bluthochdruck erhöhen, was zu einem Herzinfarkt und Schlaganfall führen kann.
+Eine hohe Zufuhr von Speisesalz scheint zudem mit dem Magenkrebsrisiko
+assoziiert zu sein.
+
+### Wirtschaft contra Fleisch
+
+Im Jahr 2022 war der Fleischkonsum in Deutschland so niedrig wie seit 30 Jahren
+nicht mehr. Es wurden durchschnittlich 52 kg pro Kopf verzehrt, was 4 kg weniger
+sind als im Vorjahr. Durch den Rückgang des Fleischkonsums entstehen aber auch
+neue Möglichkeiten auf dem Markt. Zahlreiche neue Startups haben sich gegründet,
+da Raum für neue innovative Produkte entsteht. Der entstehende wachsende
+Wettbewerb bietet auch für Verbraucher Vorteile, da die Auswahl an
+Fleischersatzprodukten immer abwechslungsreicher wird. Ein großes deutsches
+Unternehmen, welches ursprünglich auf die Herstellung von Wurstwaren
+spezialisiert war, machte im Jahr 2020 zum ersten Mal mit veganen und
+vegetarischen Fleischersatzprodukten mehr Umsatz als mit tierischen Produkten.
+Auch künftig möchte das Unternehmen die Produktionskapazitäten für
+Fleischalternativen erweitern. Zudem kann sich die Fleischproduktion durch
+Massentierhaltung auch negativ auf die Wirtschaft der Entwicklungsländer
+auswirken. Denn überschüssige Ware wird häufig auf dem Weltmarkt verkauft, wenn
+sie nicht vernichtet wird.
+
+### Wirtschaft pro Fleisch
+
+Die Fleischindustrie bietet viele Arbeitsplätze. Im Jahr 2021 waren im
+Schlachterei und Fleischverarbeitenden Gewerbe 151.500 Menschen beschäftigt. Im
+Gegensatz zum Jahr 2020 stieg die Zahl von 128.400 um 18 %. Jedoch ist diese
+Zunahme nicht mit einem Anstieg des Fleischkonsums und einem damit
+zusammenhängenden Anstieg der Beschäftigten zu erklären. Vielmehr lässt sich der
+Anstieg der in diesem Sektor beschäftigten Menschen dadurch erklären, dass
+Leiharbeiter feste Verträge erhalten haben. Im Jahr 2020 waren im gesamten
+landwirtschaftlichen Sektor 937.900 Personen beschäftigt. Von insgesamt 262.800
+landwirtschaftlichen Betrieben in Deutschland wurden in 168.800 Betrieben Tiere
+gehalten. Dies betrifft also mit einem Anteil von 64 % den Großteil der
+Betriebe. Die Zahlen beziehen sich auf das Jahr 2020. Auch wird ein hoher Umsatz
+mit Fleischerzeugnissen erzielt. Im Jahr 2022 betrug der Umsatz 42,4 Milliarden
+Euro. Hingegen betrug der Wert der Fleischersatzprodukte nur 537,4 Millionen
+Euro. Damit war der Wert der Fleischprodukte fast 80-Fach so hoch wie der der
+Fleischersatzprodukte. Die Menge des im Jahr 2022 erzeugten Fleisches ist
+beachtlich. Sie betrug 7,0 Millionen Tonnen, während die Menge der
+Fleischersatzprodukte nur 104.300 Tonnen betrug.
+
+### Ethik positiv Fleisch
+
+Manche Landschaftsformen sind nicht für den Anbau pflanzlicher Lebensmitteln,
+sondern eher für Weidetierhaltung geeignet. Unfruchtbare Böden können so genutzt
+und durch extensive Weidehaltung regeneriert werden. In einigen Regionen hängt
+die lokale Wirtschaft stark von der Viehzucht ab und bildet für viele Landwirte
+die Existenzgrundlage. Beim Anbau von pflanzlichen Lebensmitteln besteht zudem
+das Problem, dass diese, stärker als die Viehzucht, von Jahreszeiten und
+Naturzyklen abhängig sind. Dies kann vor allem in Entwicklungsländern
+Schwierigkeiten bereiten. Die Fleisch- und Milchproduktion ist hingegen weniger
+saisonabhängig. Die Tiere können je nach Ernährungs- und Marktsituation bei
+Bedarf geschlachtet werden. Durch die Massentierhaltung können viele Tiere auf
+engem Raum gehalten werden, was Raumkosten spart. Somit kann das Fleisch günstig
+angeboten werden und viele BürgerInnen können sich täglich den Konsum von
+tierischen Produkten erlauben.
+
+### Ethik negativ Fleisch
+
+Ein ethisches Argument gegen den Konsum von Fleisch bezieht sich auf den
+Tierschutz. Moderne Schlachtungen und Massentierhaltungen werden häufig als
+unethisch angesehen. Die Tiere werden teils in überfüllten Ställen und unter
+Bedingungen gehalten, die Stress auslösen und die Entstehung von Krankheiten
+begünstigen. Es besteht eine hohe Infektionsgefahr und das Risiko der Entstehung
+und Ausbreitung von Epidemien. Der erhöhte Einsatz von Antibiotika begünstigt
+das Entstehen von antibiotikaresistenten Keimen. Auch bei den Schlachtungen
+werden teils schmerzhafte Praktiken angewandt. Eine vegane Ernährung kann zudem
+auch das Leid der Menschen reduzieren. Je mehr tierische Produkte konsumiert
+werden, desto mehr Menschen leiden an Hunger, da ein Großteil der Ernten nicht
+für den menschlichen Verzehr verwendet wird, sondern an Tiere verfüttert wird.
+Dies ist mit einem Wertverlust verbunden, denn für 100 Kalorien der Nutzpflanzen
+erhält man nur 17 bis 30 Kalorien Fleisch.
+
+### Referenzen
+
+-   Vor allem junge Generation verzichtet auf Fleisch- BZfE
+-   Ernährung - Vegetarier in Deutschland nach Alter im Jahr 2023 \| Statista
+-   Häufigkeit einer vegetarischen Ernährungsweise bei Kindern und Jugendlichen
+    in Deutschland (ernaehrungs-umschau.de)
+-   BVLH, Euromonitor International \| Grüne Ernährung 2023
+-   Mehr als jeder Zehnte in Deutschland isst vegetarisch oder vegan \|
+    tagesschau.de
+-   Ist Massentierhaltung ethisch vertretbar? Diskussion rechtlicher und
+    ethischer Aspekte - GRIN
+-   Fleisch: Info zu Inhaltsstoffen, Antibiotika und Studienlage \|
+    Ernährungsradar (ernaehrungsradar.de)
+-   EU03_2016_M146-M154.pdf (ernaehrungs-umschau.de)
+-   Fragen und Antworten zu Salz: Das sollten Sie wissen \|
+    Verbraucherzentrale.de
+-   Antibiotika – so viel steckt in deinem Steak - quarks.de
+-   Antibiotika in der Massentierhaltung – Deutsche Umwelthilfe e.V. (duh.de)
+-   Diese Nährstoffe stecken in Fleisch \| Verbraucherzentrale.de
+-   Fleischalternativen – Wie gesund sind sie wirklich? (aok.de)
+-   Gibt es zu Fleisch wirklich eine Alternative? - quarks.de
+-   Hochverarbeitete Lebensmittel: So ungesund sind Zusatzstoffe \| NDR.de -
+    Ratgeber - Gesundheit
+-   Fleisch: Fleischkonsum in Deutschland geht um vier Kilogramm pro Kopf zurück
+    \| ZEIT ONLINE
+-   Über 20 New Food-Startups, die jeder kennen sollte - deutsche-startups.de
+-   Fleischkonsum - Über seine Ethik und Notwendigkeit - VON WALDEN
+    (vanwalden.com)

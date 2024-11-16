@@ -1,0 +1,28 @@
++--------------------------------+--------------------------------+--------------------------------+
+| Kriterium                      | Konventionelle Pflanzenzucht   | CRISPR/Cas9-Methode zur        |
+|                                |                                | Genom-Editierung               |
++:===============================+:===============================+:===============================+
+| Veränderungen im Erbgut        | unpräzise                      | präzise                        |
++--------------------------------+--------------------------------+--------------------------------+
+| Zeitraum                       | 5 -- 15 Jahre                  | 1 -- 10 Jahre                  |
++--------------------------------+--------------------------------+--------------------------------+
+| Kosten                         | teurer                         | günstiger                      |
++--------------------------------+--------------------------------+--------------------------------+
+| Gesetzliche Vorschriften       | keine                          | streng                         |
++--------------------------------+--------------------------------+--------------------------------+
+| Gentechnik                     | nein                           | ja, aber gentechnische         |
+|                                |                                | Werkzeuge verbleiben nicht in  |
+|                                |                                | der Zelle                      |
++--------------------------------+--------------------------------+--------------------------------+
+| Nachhaltigkeit                 | schwierige Anpassung an        | höhere Ernährungssicherheit,\  |
+|                                | Klimabedingungen,\             | evtl. Anstieg in der           |
+|                                | vermutlich keine erhöhte       | Verwendung von                 |
+|                                | Verwendung von                 | Pflanzenschutzmitteln          |
+|                                | Pflanzenschutzmitteln          |                                |
++--------------------------------+--------------------------------+--------------------------------+
+| Voraussetzungen                | verwandte Pflanze mit          | ähnliches Gen, wie das         |
+|                                | Wunscheigenschaften            | "Wunschgen" oder Gensequenz    |
+|                                |                                | muss bekannt sein              |
++--------------------------------+--------------------------------+--------------------------------+
+| Vermarktung                    | erfolgreich                    | evtl. weniger erfolgreich      |
++--------------------------------+--------------------------------+--------------------------------+

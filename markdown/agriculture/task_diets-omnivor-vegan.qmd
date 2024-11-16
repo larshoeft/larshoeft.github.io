@@ -1,0 +1,347 @@
+## Ominvor vs. Vegan
+
+Die Treibhausgasemissionen der Landwirtschaft sollen drastisch reduziert werden,
+da der Ernährungssektor für bis zu 37 % der weltweit produzierten Emissionen
+verantwortlich ist. Die Reduktion soll dazu beitragen, dass Deutschland bis 2045
+die Klimaneutralität erreicht. Aktuell wird in der Politik diskutiert, ob in den
+Schulmensen auf die Verwendung tierischer Produkte verzichtet werden soll.
+Konkret wird beraten, ob
+
+1.  weiterhin omnivore Gerichte oder
+2.  ausschließlich vegane Gerichte
+
+in der Schulmensa angeboten werden sollen.
+
+**Diskutiere** die vorgeschlagenen Ernährungsangebote vor dem Hintergrund des
+Klimawandels auf der Basis von mindestens drei Kriterien aus den Materialien der
+folgenden Seiten.
+
+{{< include ../_hints.qmd >}}
+
+### Kriterienübersicht
+
+{{< include task_diets-omnivor-vegan_table.qmd >}}
+
+### Begrifflichkeiten
+
+-   Eine omnivore Ernährungsweise setzt sich aus pflanzlichen und tierischen
+    Lebensmitteln zusammen.
+-   Eine vegane Ernährungsweise sieht ausschließlich pflanzliche Lebensmittel
+    vor.
+
+### Kriterium 1: Flächenbedarf
+
+Die landwirtschaftliche Nutzung nimmt über ein Drittel der für Menschen
+bewohnbaren Flächen in Anspruch. Durch die Anpassung unserer Essgewohnheiten
+kann der Bedarf an landwirtschaftlichen Nutzflächen stark beeinflusst werden.
+Beispielsweise dienen weltweit 83 % der landwirtschaftlichen Nutzflächen dem
+Anbau von Tiernahrung. Deutschlands Gesamtfläche beträgt 35,8 Millionen Hektar.
+Die aktuelle Ernährungsweise der Deutschen erfordert 16,6 Millionen Hektar
+landwirtschaftliche Nutzfläche, das entspricht 45 % der Gesamtfläche
+Deutschlands. Im Vergleich zu der aktuellen durchschnittlichen Ernährungsweise
+würde eine rein vegane Ernährung den Flächenbedarf um bis zu 49 % auf 8,5
+Millionen Hektar reduzieren.
+
+```{r}
+#| label: fig-diets-ominvor-vegan-crit1-land-consumption
+#| echo: false
+#| warning: false
+#| fig-cap: | 
+#|   Flächenbedarf je Ernährungsweise
+
+tibble::tibble(Category = c("Omnivor", "Vegan"), Area = c(16.61, 8.47)) |>
+  ggplot2::ggplot(ggplot2::aes(x = Category, y = Area, fill = Category)) +
+  ggplot2::geom_col() +
+  khroma::scale_fill_bright(guide = "none") +
+  ggplot2::labs(
+    x = "Ernährungstyp", 
+    y = "Flächenbedarf in Mio. Hektar") +
+  ggplot2::scale_y_continuous(expand = c(0, 0)) 
+```
+
+### Kriterium 2: Wasserbedarf
+
+Die Mehrheit der Deutschen ernährt sich omnivor. Ihre derzeitige
+durchschnittliche Ernährung weist im Vergleich zu einer rein veganen Ernährung
+einen geringeren Wasserbedarf für die Bewässerung auf. Die Abbildung 2 zeigt den
+Wasserbedarf je Ernährungsweise. Dieser wird in Kubikmetern (m^3^) pro
+Person und pro Jahr angegeben. Allerdings gilt es hierbei zu beachten, dass nur
+die Wassermenge für die künstliche Bewässerung exklusive des Regenwassers und
+Trinkwassers für die Tiere angegeben ist. Zudem erfolgte die Berechnung unter
+der Annahme gleichbleibender Handelsströme wie bei der aktuellen
+Ernährungsweise. Fleisch und weitere tierische Produkte werden vorrangig in
+Regionen produziert, in denen genügend Wasser vorhanden ist. Hingegen werden
+pflanzliche Produkte häufig in niederschlagsarmen Gebieten unter der Verwendung
+teilweise ineffizienter Bewässerungstechniken angebaut.
+
+```{r}
+#| label: fig-diets-ominvor-vegan-crit2-water-consumption
+#| echo: false
+#| warning: false
+#| fig-cap: "Wasserbedarf von Omnivoren und Veganern"
+
+tibble::tibble(Category = c("Omnivor", "Vegan"), Area = c(29.21, 45.41)) |>
+  ggplot2::ggplot(ggplot2::aes(x = Category, y = Area, fill = Category)) +
+  ggplot2::geom_col() +
+  khroma::scale_fill_bright(guide = "none") +
+  ggplot2::labs(
+    x = "Ernährungsweise", 
+    y =  expression(atop("Wasserbedarf in " ~ m^{3}, "[pro Jahr & pro Person]"))) +
+  ggplot2::scale_y_continuous(expand = c(0, 0))
+```
+
+### Kriterium 3: Treibhausgasemissionen / Klimawirkung und Reduktionspotentiale
+
+Für einen Großteil (21 – 37 %) der globalen Treibhausemissionen ist unsere
+Ernährung verantwortlich. 69 % der ernährungsbedingten Treibhausgasemissionen
+sind auf tierische Produkte zurückzuführen. Die Abbildung 3 zeigt die
+Klimawirkung je Ernährungsweise pro Person und Jahr. Das
+Kohlenstoffdioxid-Äquivalent (CO~2~e) ist eine Maßeinheit zur
+Vereinheitlichung der Klimawirkung der unterschiedlichen Treibhausgase. Durch
+eine Umstellung der omnivoren auf eine vegane Ernährungsweise können die
+Treibhausgasemissionen um 1237 kg Kohlenstoffdioxid-Äquivalent pro Kopf und pro
+Jahr gesenkt werden. Die Abnahme der Treibhausgasemissionen ist auf niedrigere
+Methanemissionen durch Nutztiere aber ebenfalls auf Landnutzungsänderungen durch
+eine geringere Nachfrage nach Futtermitteln zurückzuführen.
+
+Es gibt aber auch Möglichkeiten, durch Veränderungen im Futtermittel die
+Treibhausgasemissionen in der Viehhaltung zu reduzieren. Die
+Futterzusammensetzung kann angepasst werden oder die Zugabe von Zusatzstoffen
+kann die Methanproduktion im Verdauungstrakt der Tiere beeinflussen. Insekten
+oder Algen könnten als nachhaltige alternative Futterkomponenten verwendet
+werden. Algen beispielsweise produzieren bioaktive Substanzen, die den
+Methanausstoß verringern könnten. Zudem sind Algen gute Proteinlieferanten und
+könnten als Soja-Alternativen eingesetzt werden. Eine Studie zeigt, dass die
+Supplementierung von der roten Makroalge (Seetang) *Asparagopsis spp.* zum
+Viehfutter die Methanproduktion im Darm von Wiederkäuern um bis zu 80 %
+verringert.
+
+```{r}
+#| label: fig-diets-ominvor-vegan-crit3-ghg-emissions
+#| echo: false
+#| warning: false
+#| fig-cap: "Treibhausgasemissionen von Omnivoren und Veganern"
+ 
+tibble::tibble(Category = c("Omnivor", "Vegan"), Area = c(2552, 1318)) |>
+  ggplot2::ggplot(ggplot2::aes(x = Category, y = Area, fill = Category)) +
+  ggplot2::geom_col() +
+  khroma::scale_fill_bright(guide = "none") +
+  ggplot2::labs(
+    x = "Ernährungsweise", 
+    y = expression(atop("Treibhausgasemissionen " ~ CO[2] ~ "e", "in kg [pro Person & pro Jahr]"))) +
+  ggplot2::scale_y_continuous(expand = c(0, 0)) 
+```
+
+### Kriterium 4: Nährstoffe/Gesundheit
+
+#### Nährstoffe
+
+[**Omega-3-Fettsäuren:**]{.underline} Omega-3-Fettsäuren sind wichtig für den
+Stoffwechsel und die Produktion von Gewebshormonen und können Entzündungen
+entgegenwirken. Auch können sie sich positiv auf die Konzentrationsfähigkeit
+auswirken. Es gibt verschiedene Formen von Omega-3-Fettsäuren. Eine dieser
+Formen kommt nur in pflanzlichen Lebensmitteln vor und ist eine essentielle
+Fettsäure. Essentiell bedeutet, dass der Körper die Fettsäuren nicht selbst
+herstellen kann. Andere Formen der Omega-3-Fettsäuren, die in tierischen
+Nahrungsmitteln (vor allem in Fischen und Krebstieren) vorkommen, sind nicht
+essentiell. Sie können in geringen Mengen im menschlichen Körper aus der Art der
+Fettsäure, die in pflanzlichen Lebensmitteln vorhanden ist, hergestellt werden.
+
+[**Vitamin B12:**]{.underline} Das Vitamin B12 ist für die Bildung und Reifung
+roter Blutkörperchen sowie für eine normale Funktion des Nervensystems
+notwendig. Es ist in tierischen Lebensmitteln vorhanden. In pflanzlichen
+Nahrungsmitteln kommt es natürlicherweise nicht vor.
+
+[**Eisen:**]{.underline} Das Spurenelement Eisen ist wichtig für die
+Sauerstoffversorgung, den Energiestoffwechsel und die Immunfunktion des
+menschlichen Körpers. Die Aufnahme erfolgt im Dünndarm. Besonders dunkelrotes
+Fleisch wie Rind, Kalb, Wild und Innereien enthalten besonders viel Eisen. Der
+Vorteil hierbei ist, dass das Eisen in der zweiwertigen Form (Fe^2+^)
+vorliegt und vom Körper gut aufgenommen werden kann. Es weist also eine höhere
+Bioverfügbarkeit auf und ist unabhängig von Umwandlungsprozessen. Im Gegensatz
+dazu enthalten pflanzliche Lebensmittel dreiwertiges Eisen (Fe^3+^).
+Um diese Form des Eisens verwerten zu können, sind zusätzliche Schritte
+erforderlich. Das dreiwertige Eisen muss im Dünndarm erst in zweiwertiges Eisen
+umgewandelt werden, da der für die Aufnahme zuständige Transporter nur
+zweiwertige Eisenionen befördern kann. Für diese Umwandlung ist die Anwesenheit
+eines Enzyms erforderlich. Zudem ist zu beachten, dass einige pflanzliche
+Lebensmittel Hemmstoffe, wie z. B. Tannin, Phosphat oder Oxalsäure enthalten,
+welche die Eisenaufnahme beeinträchtigen.
+
+Eine Supplementierung von Omega-3-Fettsäuren, Vitamin B12 und Eisen als
+Nahrungsergänzungsmittel ist beispielsweise in Form von Tabletten oder auch in
+flüssiger Form möglich. Allerdings sollte zuvor die Notwendigkeit einer
+zusätzlichen Einnahme mittels eines Blutbildes ärztlich überprüft werden.
+
+#### Gesundheit
+
+Ein hoher Konsum von Fleisch, besonders rotem und verarbeitetem Fleisch kann
+sich negativ auf die Gesundheit auswirken. Zu rotem Fleisch zählen
+beispielsweise Rind, Kalb, Schwein und Wild. Ein übermäßiger Verzehr kann
+Darmkrebs begünstigen, da die Aufnahme von zu viel Eisen die Zellen schädigen
+könnte. Enthaltene gesättigte Fettsäuren und Cholesterin können den
+Blutfettspiegel erhöhen und zu einer Begünstigung von
+Herz-Kreislauf-Erkrankungen führen. Hingegen kann der Verzehr von Obst, Gemüse
+und Getreide das Risiko für entzündliche Erkrankungen sowie Diabetes Typ 2
+reduzieren.
+
+### Kriterium 5: Wirtschaft
+
+#### Arbeitsplätze
+
+Im Jahr 2021 waren im Schlachterei und Fleischverarbeitenden Gewerbe 151.500
+Menschen beschäftigt. Im Gegensatz zum Jahr 2020 stieg die Zahl von 128.400 um
+18 %. Jedoch ist diese Zunahme nicht mit einem Anstieg des Fleischkonsums und
+einem damit zusammenhängenden Anstieg der Beschäftigten zu erklären. Vielmehr
+lässt sich der Anstieg der in diesem Sektor beschäftigten Menschen dadurch
+erklären, dass Leiharbeiter feste Verträge erhalten haben. Im Jahr 2020 waren im
+gesamten landwirtschaftlichen Sektor 937.900 Personen beschäftigt.
+
+#### Betriebe
+
+Von insgesamt 262.800 landwirtschaftlichen Betrieben in Deutschland wurden in
+168.800 Betrieben Tiere gehalten. Dies betrifft also mit einem Anteil von 64 %
+den Großteil der Betriebe. Die Zahlen beziehen sich auf das Jahr 2020.
+
+#### Umsatz, Produktion & Export
+
+Der Wert der im Jahr 2022 produzierten Fleischerzeugnisse betrug 42,4 Milliarden
+Euro. Hingegen betrug der Wert der Fleischersatzprodukte nur 537,4 Millionen
+Euro (siehe Abbildung 4). Damit war der Wert der Fleischprodukte fast 80-Fach so
+hoch wie der der Fleischersatzprodukte. Die Menge des im Jahr 2022 erzeugten
+Fleisches betrug 7,0 Millionen Tonnen, während die Menge der
+Fleischersatzprodukte nur 104.300 Tonnen betrug. Im Vergleich zum Jahr 2021 ist
+der Wert der Fleischprodukte jedoch gesunken und der Fleischersatzprodukte
+gestiegen. Es ist zu beachten, dass die Fleischersatzprodukte nicht nur vegane,
+sondern auch vegetarische Erzeugnisse enthalten. 2022 wurden fast 2,9 Millionen
+Tonnen an Fleisch und Fleischwaren exportiert. Das entspricht einem Rückgang von
+6,9 % im Vergleich zum Vorjahr. Ein Grund für die Abnahme der Exportmenge ist
+beispielsweise die Einfuhrbeschränkung von Abnehmerländern wie China und ein
+weiterer Grund die Abnahme des Viehbestandes in Deutschland. Ein Export von
+Fleischersatzprodukten findet in keinem nennenswerten Umfang statt.
+
+```{r}
+#| label: fig-diets-ominvor-vegan-crit5-economy
+#| echo: false
+#| warning: false
+#| fig-cap: "Umsatz: Fleisch vs. Fleischersatz"
+
+tibble::tibble(Category = c("Omnivor", "Vegan"), Area = c(42.4, 0.5374)) |>
+  ggplot2::ggplot(ggplot2::aes(x = Category, y = Area, fill = Category)) +
+  ggplot2::geom_col() +
+  khroma::scale_fill_bright(guide = "none") +
+  ggplot2::labs(
+    x = "Produkte", 
+    y = "Umsatz in Milliarden € [pro Jahr]") +
+  ggplot2::scale_y_continuous(expand = c(0, 0))
+```
+
+### Kriterium 6: Konsum & Preise
+
+Auch wenn in Deutschland seit Jahren immer weniger Fleisch gegessen wird, lag
+der Konsum bei 55 kg pro Person und pro Jahr (2021). Der Konsum von
+Fleischersatzprodukten dagegen betrug im selben Zeitraum nur 0,44 kg pro Kopf
+und pro Jahr. Auch hier ist zu beachten, dass die Fleischersatzprodukte nicht
+nur vegane, sondern auch vegetarische Erzeugnisse enthalten. Der Preis von
+Fleischprodukten ist häufig niedriger als der von vergleichbaren
+Ersatzprodukten. Das kann zum Teil dadurch erklärt werden, dass tierische
+Produkte mit einem ermäßigten Steuersatz von 7 % besteuert werden, während die
+meisten Alternativen, die nicht zu den Grundnahrungsmitteln gehören, mit einer
+Mehrwertsteuer von 19 % besteuert werden. Zudem fließt ein großer Teil der
+EU-Subventionen, welche die Landwirte erhalten, in die Tierproduktion.
+
+### Kriterium 7: Ethik
+
+Ein ethisches Argument gegen den Konsum von Fleisch bezieht sich auf den
+Tierschutz. Moderne Schlachtungen und Massentierhaltungen werden häufig als
+unethisch angesehen. Die Tiere werden teils in überfüllten Ställen und unter
+Bedingungen gehalten, die Stress auslösen und die Entstehung von Krankheiten
+begünstigen. Der damit verbundene erhöhte Einsatz von Antibiotika treibt das
+Entstehen von antibiotikaresistenten Keimen voran. Auch bei den Schlachtungen
+werden teils schmerzhafte Praktiken angewandt. Eine vegane Ernährung kann zudem
+auch das Leid der Menschen reduzieren. Je mehr tierische Produkte konsumiert
+werden, desto mehr Menschen leiden an Hunger, da ein Großteil der Ernten nicht
+für den menschlichen Verzehr verwendet wird, sondern an Tiere verfüttert wird.
+Dies ist mit einem Wertverlust verbunden, denn für 100 Kalorien der Nutzpflanzen
+erhält man nur 17 bis 30 Kalorien Fleisch.
+
+### Kriterium 8: Kultur & Religion
+
+Auch Kulturen und Religionen sind mit der Ernährungsweisen verbunden. Bei
+einigen Zeremonien spielen auch tierische Produkte eine zentrale Rolle. In den
+USA wird am Thanksgiving-Tag traditionell Truthahn zubereitet. In einigen
+Religionen werden Tiere geopfert, um Geister und Götter zu besänftigen. Im Islam
+und Judentum gibt es spezielle Vorschriften für die Schlachtung und den Verzehr
+von Fleisch. Gästen Fleisch zu servieren, ist in einigen Religionen ein Zeichen
+der Wertschätzung und des Respekts. Bei einigen Neujahrs- oder Hochzeitsbräuchen
+werden aber auch vegane Lebensmittel verwendet. Eine komplett vegane
+Ernährungsweise würde dennoch zu einem Verlust oder zumindest zu einer Änderung
+einiger traditioneller Rituale führen.
+
+<!-- ### Referenzen -->
+
+<!-- -   kulinarische-kompass-klima.pdf (wwf.de) -->
+<!-- -   Amazonas-Studie: Viehzucht und Sojaanbau befeuern Artensterben (wwf.de) -->
+<!-- -   Ernährung & Klimawandel: Essen wir das Klima auf? (wwf.de) -->
+<!-- -   Dalile B, Kim C, Challinor A, Geurts L, Gibney ER, Galdos MV, La Fata G, -->
+<!--     Layé S, Mathers JC, Vauzour D, Verkuyl JM, Thuret S. The EAT-Lancet -->
+<!--     reference diet and cognitive function across the life course. Lancet Planet -->
+<!--     Health. 2022 Sep;6(9):e749-e759. doi: 10.1016/S2542-5196(22)00123-1. PMID: -->
+<!--     36087605. -->
+<!-- -   Schweiz: Algenfutter für Kühe soll zu weniger Methan-Ausstoß führen - SWR -->
+<!--     Aktuell -->
+<!-- -   FAO. 2020. The State of Food and Agriculture 2020. Overcoming water -->
+<!--     challenges in agriculture. Rome.https://doi.org/10.4060/cb1447en -->
+<!-- -   https://www.bmel-statistik.de/landwirtschaft/landwirtschaftliche-arbeitskraefte -->
+<!-- -   Umbriet JN et al.: Iron absorption and cellular transport: the -->
+<!--     mobilferrin/paraferritin paradigm Semin Hematol. 1998 Jan;35(1):13-26. -->
+<!-- -   Brie K. Fuqua, Christopher D. Vulpe, Gregory J. Anderson, Intestinal iron -->
+<!--     absorption, Journal of Trace Elements in Medicine and Biology, Volume 26, -->
+<!--     Issues 2–3, 2012, Pages 115-119, ISSN 0946-672X, -->
+<!--     https://doi.org/10.1016/j.jtemb.2012.03.015. -->
+<!-- -   WWF-Studie-Kulinarischer-Kompass-Wasser.pdf -->
+<!-- -   WWF_Duerrebericht_DE_WEB.pdf -->
+<!-- -   BMEL-Statistik: Landwirtschaftliche Arbeitskräfte -->
+<!-- -   Vegane Ernährung: Vorteile und Nachteile (aok.de) -->
+<!-- -   Fleischexporte in den vergangenen fünf Jahren um 19 % zurückgegangen - -->
+<!--     Statistisches Bundesamt (destatis.de) -->
+<!-- -   Fleischersatz weiter im Trend: Produktion steigt um 6,5 % gegenüber 2021 - -->
+<!--     Statistisches Bundesamt (destatis.de) -->
+<!-- -   Fleischproduktion im Jahr 2022 um 8,1 % gesunken - Statistisches Bundesamt -->
+<!--     (destatis.de) -->
+<!-- -   BMEL-Statistik: Fleisch -->
+<!-- -   Viehhaltung im letzten Jahrzehnt: Weniger, aber größere Betriebe - -->
+<!--     Statistisches Bundesamt (destatis.de) -->
+<!-- -   29 ethische Gründe Vegan zu leben \| Mindfulplate -->
+<!-- -   https://www.eatmovefeel.de/was-ist-omega-3-und-welche-arten-gibt-es/ -->
+<!-- -   Swanson D, Block R, Mousa SA. Omega-3 fatty acids EPA and DHA: health -->
+<!--     benefits throughout life. Adv Nutr January 2012 Adv Nutr vol. 3: 1-7, 2012 -->
+<!-- -   World Health Organization. Q&A on the carcinogenicity of the consumption of -->
+<!--     red meat and processed meat. -->
+<!--     http://www.who.int/features/qa/cancer-red-meat/en/ (18.08.2017) -->
+<!-- -   Aune D, Ursin G, Veierød MB. Meat consumption and the risk of type 2 -->
+<!--     diabetes: a systematic review and meta-analysis of cohort studies. -->
+<!--     Diabetologia. 2009 Nov;52(11):2277-87. doi: 10.1007/s00125-009-1481-x. Epub -->
+<!--     2009 Aug 7 -->
+<!-- -   Boeing H, Bechthold A, Bub A, et al. Critical review: vegetables and fruit -->
+<!--     in the prevention of chronic diseases. European Journal of Nutrition. -->
+<!--     2012;51(6):637-663. doi:10.1007/s00394-012-0380-y -->
+<!-- -   Eisensupplementation - DocCheck Flexikon -->
+<!-- -   Vitamin B12 (Cobalamin) \| Apotheken Umschau (apotheken-umschau.de) -->
+<!-- -   Preis oder Tierschutz? Warum Ersatzprodukte oft teurer sind -->
+<!-- -   Regeln und Rituale des Hinduismus, Von heiligen Kühen, süßen Opfern und -->
+<!--     nackten Heiligen - Hinduismus - Weltreligionen - Dossiers - WDR -->
+<!-- -   Fleischkonsum in Deutschland: Weniger ist mehr (boell.de) -->
+<!-- -   Adeline Mertenat, Stefan Diener, Christian Zurbrügg, Black Soldier Fly -->
+<!--     biowaste treatment – Assessment of global warming potential, Waste -->
+<!--     Management, Volume 84, 2019, Pages 173-181, ISSN -->
+<!--     0956-053X,https://doi.org/10.1016/j.wasman.2018.11.040. -->
+<!--     (https://www.sciencedirect.com/science/article/pii/S0956053X18307293) -->
+<!-- -   Kann Fleisch klimaneutral werden? – DW – 04.04.2021 -->
+<!-- -   Article Source: Red seaweed (Asparagopsis taxiformis) supplementation -->
+<!--     reduces enteric methane by over 80 percent in beef steers, Roque BM, Venegas -->
+<!--     M, Kinley RD, de Nys R, Duarte TL, et al. (2021) Red seaweed (Asparagopsis -->
+<!--     taxiformis) supplementation reduces enteric methane by over 80 percent in -->
+<!--     beef steers. PLOS ONE 16(3): e0247820. -->
+<!--     https://doi.org/10.1371/journal.pone.0247820 -->
+<!-- -   Larven statt Soja - Insekten als Ersatz beim Viehfutter? \| proplanta.de -->

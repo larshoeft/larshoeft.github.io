@@ -1,0 +1,282 @@
+## Frachtschifffahrt
+
+Die Schifffahrt ist für ungefähr 2,5 % der weltweiten Treibhausgasemissionen
+verantwortlich. Damit erzeugt die Schifffahrt fast 1,5-mal so viele
+Treibhausgasemissionen wie Deutschland. Die EU will die Treibhausgasemissionen
+in der Schifffahrt bis 2050 um 80 % gegenüber 2020 verringern. Daher wird von
+den Politikerinnen und Politikern gefordert, dass neu gebaute Frachtschiffe
+statt Schiffsdiesel alternative Energieträger verwenden müssen. Konkret wird
+beraten, ob ein Umstieg auf Frachtschiffe mit
+
+1.  Ammoniak,
+2.  Methanol oder
+3.  Wasserstoff
+
+als Energieträger gezielt gefördert werden soll.
+
+**Diskutiere** die genannten Energieträger vor dem Hintergrund des Klimawandels.
+Verwende insgesamt mindestens drei Kriterien aus den Materialien.
+
+{{< include ../_hints.qmd >}}
+
+### Kriterienübersicht
+
+{{< include task_cargo-ships_table.qmd >}}
+
+### Begrifflichkeiten
+
+**Ammoniak** ($\text{NH}_3$) ist unter Standardbedingungen gasförmig (Siedepunkt
+von -33 °C). Ammoniak wird im industriellen Maßstab in einem chemischen
+Verfahren (Haber-Bosch-Verfahren) aus Wasserstoff und Stickstoff synthetisiert.
+Hierzu muss zunächst Wasserstoff bspw. durch Elektrolyse von Wasser gewonnen und
+Stickstoff aus der Luft abgetrennt werden. Anschließend findet die Synthese des
+Ammoniaks unter einem hohen Druck von ca. 300 bar, bei 450 °C in einem Reaktor
+statt. Ein Katalysator (bspw. aus Eisen) beschleunigt hierbei die Reaktion.
+Ammoniak kann im Schiffsantrieb sowohl direkt in Verbrennungsmotoren als auch in
+Brennstoffzellen, welche chemische in elektrische Energie umwandeln, eingesetzt
+werden. Mithilfe der chemischen Energie kann dann ein Elektromotor betrieben
+werden. Bei der chemischen Reaktion des Ammoniaks mit Sauerstoff entstehen
+Stickstoff und Wasser.
+
+**Methanol** ($\text{CH}_3\text{OH}$) ist unter Standardbedingungen flüssig
+(Siedepunkt von 65 °C). Methanol kann aus Wasserstoff und Kohlenstoffmonoxid und
+Kohlenstoffdioxid synthetisiert werden. Insgesamt lässt sich die Herstellung des
+Methanols in die Schritte der Synthesegasherstellung (Elektrolyse von Wasser,
+Abtrennung von Kohlenstoffdioxid aus der Luft), Methanolsynthese und
+Aufbereitung durch Destillation unterteilen. Das Methanol kann im Schiffsantrieb
+in Verbrennungsmotoren eingesetzt werden. Bei der chemischen Reaktion des
+Methanols mit Sauerstoff entstehen Kohlenstoffdioxid und Wasser. Daher kann der
+Einsatz von Methanol nur klimaneutral sein, wenn bei der Erzeugung des Methanols
+keine fossilen Energieträger genutzt werden.
+
+**Wasserstoff** ($\text{H}_2$) ist unter Standardbedingungen gasförmig
+(Siedepunkt von -252 °C). Wasserstoff kann mittels Elektrolyse aus Wasser
+erzeugt werden. Die Erzeugung von Wasserstoff soll zukünftig in großtechnischem
+Maßstab in Elektrolyseuren stattfinden. Als Elektrolyseur bezeichnet man eine
+Vorrichtung, die eine chemische Reaktion mithilfe von Strom herbeiführt.
+Wasserstoff kann im Schiffsantrieb in Brennstoffzellen eingesetzt werden. Die
+Brennstoffzelle wandelt im Wasserstoff gespeicherten chemischen Energie in
+elektrische Energie um. Mithilfe der chemischen Energie kann dann ein
+Elektromotor betrieben werden. Bei der chemischen Reaktion des Wasserstoffs mit
+Sauerstoff entsteht Wasser. Um Wasserstoff klimaneutral herzustellen, muss der
+Strom aus erneuerbaren Energien verwendet werden.
+
+### Kriterium 1: Energiedichte
+
+Die volumetrische Energiedichte gibt die gespeicherte Energiemenge pro Volumen
+an. Feste und flüssige Energieträger weisen eine höhere volumetrische
+Energiedichte als gasförmige Energieträger auf. Der Einsatz von Energieträgern
+mit einer höheren volumetrischen Energiedichte ermöglicht somit eine
+effizientere Mitführung auf Schiffen, da weniger Frachtraum verloren geht. Alle
+drei alternativen Energieträger (Ammoniak, Methanol, Wasserstoff) besitzen
+geringere volumetrische Energiedichten als Schiffsdiesel oder Schweröl und
+nehmen daher bei dem Transport und bei der Lagerung mehr Volumen bei gleicher
+Energiemenge ein.
+
+**Ammoniak** muss verflüssigt werden, um ihn platzsparend speichern zu können.
+Dies liegt daran, dass Ammoniak bei Standardbedingungen gasförmig ist. Da der
+Siedepunkt von Ammoniak bei -33 °C liegt, kann bei geringer Kompressionsarbeit
+eine Verflüssigung erreicht werden. Die Kompressionsarbeit beträgt ca. 1 % der
+Energiemenge, die zur Herstellung von Ammoniak benötigt wird. Herkömmliche
+Schiffe müssten mit neuen Tanks ausgestattet werden, welche mehr Platz als Tanks
+für Methanol, jedoch weniger Platz als Tanks für Wasserstoff einnehmen würden.
+
+**Methanol** liegt bei Standardbedingungen bereits flüssig vor, da der
+Siedepunkt 65 °C beträgt. Daher kann Methanol direkt in herkömmlichen
+Schiffstanks gespeichert werden. Trotzdem müssten bestehende Schiffe mit
+zusätzlichen Tanks ausgerüstet werden, da die volumetrische Energiedichte von
+Methanol geringer als diejenige von Schiffsdiesel oder Schweröl ist. Trotzdem
+würden die Tanks weniger Platz einnehmen als Tanks für Ammoniak oder
+Wasserstoff.
+
+**Wasserstoff** muss verflüssigt werden, um ihn platzsparend speichern zu
+können. Dies liegt daran, dass Wasserstoff bei Standardbedingungen gasförmig
+ist. Da der Siedepunkt von Wasserstoff mit -255 °C sehr gering ist, muss zur
+Verflüssigung ein hoher Druck mit bis zu 700 Bar erzeugt werden. Daher muss eine
+hohe Kompressionsarbeit zur Verflüssigung geleistet werden. Die
+Kompressionsarbeit beträgt ca. 25 % der Energiemenge, die zur Herstellung von
+Ammoniak benötigt wird. Schiffe müssten mit neuen Tanks ausgerüstet werden,
+welche mehr Platz als die Tanks für Ammoniak oder Methanol einnehmen würden.
+
+### Kriterium 2: Wirkungsgrad
+
+Der Wirkungsgrad gibt an, welcher Anteil der zugeführten Energie bei einem
+Prozess in die gewünschte Energieform umgewandelt wird. Für die Schifffahrt
+bedeutet dies, dass je höher der Gesamtwirkungsgrad ist, desto größer ist der
+Anteil der erneuerbaren Energie, der auch tatsächlich für den Vortrieb des
+Frachtschiffs genutzt wird. Der Gesamtwirkungsgrad für die Schifffahrt berechnet
+sich aus dem Wirkungsgrad der Herstellung (Synthese), der Transformation bspw.
+der Verflüssigung durch Kompression (bei Ammoniak und Wasserstoff), des
+Transports sowie der Effizienz des Schiffsantriebs.
+
+```{r}
+#| label: fig-cargo-ships-crit2-efficiency
+#| echo: false
+#| warning: false
+#| fig-cap: Wirkungsgrad von der Synthese des Energieträgers bis zum Antrieb eines Frachtschiffs
+
+# Datenquelle:
+# Ramboll Deutschland GmbH. (2022). Kraftstoffanalyse in der Schifffahrt nach Segmenten: 
+# Abschlussbericht (Nr. 301001177). Abgerufen am 1. April 2024, 
+# von https://dmz-maritim.de/wp-content/uploads/2022/06/20220601-Kraftstoffanalyse-in-der-Schifffahrt-nach-Segmenten-final.pdf
+
+tibble::tibble(
+  fuel = rep(c("Wasserstoff", "Ammoniak", "Methanol"), each = 5),
+  efficiency = rep(c("Herstellung", "Transformation", "Transport", "Antrieb", "Gesamt"), 3),
+  value = c(65, 75, 93, 50, 23, 55, 99, 99, 50, 27, 44, 100, 100, 50, 22)) |>
+  dplyr::mutate(efficiency = factor(rep(1:5, 3), labels = unique(efficiency))) |>
+  ggplot2::ggplot(ggplot2::aes(fuel, fill = factor(fuel))) +
+  ggplot2::facet_wrap(~ efficiency, nrow = 1) +
+  ggplot2::geom_col(ggplot2::aes(y = value)) +
+  ggplot2::labs(y = expression("Gesamtwirkungsgrad in %"), x = NULL, parse = TRUE) +
+  khroma::scale_fill_bright(guide = "none", name = "Energieträger") +
+  ggplot2::scale_y_continuous(expand = c(0, 0)) +
+  ggplot2::theme(
+    legend.position = "bottom", 
+    axis.ticks.x = ggplot2::element_blank(),
+    axis.text.x = ggplot2::element_blank())
+```
+
+### Kriterium 3: Energiebedarf
+
+Der Energiebedarf gibt an, wie viel Energie benötigt würde, um die gesamte
+Frachtschiffsflotte der EU und Großbritannien mit dem jeweiligen Energieträger
+zu versorgen. Die Angabe erfolgt in Terawattstunden pro Jahr.
+
+**Ammoniak** wird mittels Haber-Bosch-Verfahren aus Stickstoff und Wasserstoff
+synthetisiert. Hier ist insbesondere die Wasserstofferzeugung mittels
+Elektrolyse, sowie die endotherme Synthese von Ammoniak aus Wasserstoff und
+Stickstoff energieintensiv. Derzeit existieren nicht ausreichend Elektrolyseure
+für die Erzeugung von Wasserstoff. Die Synthese von Ammoniak ist gut erprobt und
+wird bereits im in einem industriellen Maßstab durchgeführt. Für die Versorgung
+der gesamten Frachtschiffsflotte in der EU und Großbritannien würden je nach
+Antrieb zwischen 117 -- 177TWh elektrische Energie pro Jahr benötigt.
+
+**Methanol** wird aus Kohlenstoffdioxid und Wasserstoff synthetisiert. Sowohl
+Wasserstofferzeugung mittels Elektrolyse sowie die Abtrennung von
+Kohlenstoffdioxid aus der Atmosphäre sind energieintensiv. Die Abtrennung von
+Kohlenstoffdioxid aus der Atmosphäre wird in absehbarer Zeit nicht großtechnisch
+durchgeführt werden. Für die Versorgung der gesamten Frachtschiffsflotte in der
+EU und Großbritannien würden je nach Antrieb zwischen 154 -- 232TWh elektrische
+Energie pro Jahr benötigt.
+
+**Wasserstoff** wird mittels Elektrolyse gewonnen. Dieses Verfahren ist
+energieintensiv und derzeit existieren nicht ausreichend Elektrolyseure für die
+Erzeugung von Wasserstoff. Für die Versorgung der gesamten Frachtschiffsflotte
+in der EU und Großbritannien würden je nach Antrieb zwischen 117 und 141 TWh
+elektrische Energie pro Jahr benötigt.
+
+### Kriterium 4: Gefahrenpotenzial und Toxizität
+
+Bei einem Austritt des flüssigen **Ammoniaks** in die Umgebung verdampft dieser
+und verbreitet sich schnell in der Umgebung. Zu der Entflammung von Ammoniak ist
+eine sehr hohe Aktivierungsenergie notwendig, weswegen Ammoniakdämpfe allgemein
+im Freien keine Brandgefahr darstellen. Für Lagertanks, welche kontinuierlicher
+hoher Wärmeeinwirkung ausgesetzt sind, besteht jedoch eine Explosionsgefahr. Bei
+Menschen ruft das Einatmen von hohen Konzentrationen an Ammoniak unmittelbare
+Verbrennungen der Nasenschleimhaut, des Rachens und der Atemwege hervor.
+Ammoniak kann die Atemwege und Lunge schädigen und eine schwerwiegende
+Exposition zu Atemstillstand führen. Gelangt Ammoniak in größeren Mengen in die
+Umwelt, schädigt es die Ökosysteme. So ist Ammoniak für viele Wasserlebewesen
+toxisch. Ammoniak kann die Artenzusammensetzung in einem Ökosystem beeinflussen
+oder zur gänzlichen Auslöschung einzelner Arten in dem kontaminierten Gebiet
+führen.
+
+Bei einem Austritt von flüssigem **Methanol** in die Umgebung findet zum Teil
+eine Verdunstung statt. Zur Entflammung von Methanol ist eine niedrige
+Aktivierungsenergie notwendig. Aufgrund der hohen Entzündlichkeit von Methanol
+geht von jeglichen Zündquellen ein hohes Risiko aus. Für Menschen ist Methanol
+giftig, da es irreversible Nervenschäden verursachen kann. So kann die Einnahme
+zur Erblindung der sogar zum Tod führen, was bei der vorschriftsmäßigen
+Verwendung als Treibstoff jedoch unwahrscheinlich ist. Im Falle eines Austritts
+in die Umgebung löst sich Methanol rasch im Meerwasser. Durch die Ausbreitung
+von Methanol geht jedoch nur eine geringe Gefahr für Ökosysteme aus, da es eine
+geringe Giftigkeit für Wasserorganismen besitzt. Zudem ist Methanol biologisch
+abbaubar und hat kein Potenzial zur Bioakkumulation.
+
+Bei einem Austritt von flüssigem **Wasserstoff** verdampft dieser und verbreitet
+sich schnell in der Umgebung. Zu der Entflammung von Wasserstoff ist eine
+niedrige Aktivierungsenergie nötig. Wasserstoff weist also eine leichte
+Entzündbarkeit auf. Wasserstoff reagiert heftig mit Sauerstoff und starken
+Oxidationsmitteln. Vor allem durch Wärmezufuhr kann der hochreaktive Wasserstoff
+schnell Brände und Explosionen auslösen. Für Menschen ist Wasserstoff ein
+ungiftiges Gas. Erst bei einer bewussten Aufnahme einer hohen Menge von
+Wasserstoff kann es eine erstickende Wirkung für Menschen haben. Durch die
+Emission von Wasserstoff geht keine Gefahr für die Umwelt aus.
+
+### Kriterium 5: Lokale Treibhausgasemissionen beim Betrieb
+
+**Ammoniak** ist eine kohlenstofffreie Verbindung, weshalb bei der Reaktion mit
+Sauerstoff in der Brennstoffzelle keine Kohlenstoffdioxidemissionen anfallen.
+
+$$ 4\text{NH}_3 + 3\text{O}_2 \rightarrow 2\text{N}_2 + 6\text{H}_2\text{O} $$
+
+Bei der Verwendung in Verbrennungsmotoren kommt es jedoch zu
+Stickstoffdioxidemissionen. Stickstoffdioxid ist ein starkes Treibhausgas.
+
+**Methanol** ist eine kohlenstoffhaltige Verbindung, welche bei der Reaktion mit
+Sauerstoff Kohlenstoffdioxid freisetzt. Kohlenstoffdioxid ist ein Treibhausgas.
+
+$$2 \text{CH}_3\text{OH} + 3 \text{O}2 \rightarrow 2 \text{CO}_2 + 4 \text{H}_2\text{O}$$
+
+**Wasserstoff** ist eine kohlenstofffreie Verbindung. Bei der Umsetzung in
+Brennstoffzellen entstehen keine Treibhausgasemissionen.
+
+$$2 \text{H}_2 + \text{O}_2 \rightarrow  2\text{H}_2\text{O}$$
+
+### Kriterium 6: Infrastruktur
+
+Es gibt bereits eine gute ausgebaute Infrastruktur zur Lagerung von
+**Ammoniak**, da Ammoniak ein Ausgangsstoff für die Düngemittelherstellung ist.
+Zudem gibt es weltweit bereits 156 bestehende Ammoniakterminals. Für LNG
+(liquefied natural gas, also verflüssigtes Erdgas) bestimmte Terminals könnten
+durch nur leichte Anpassungen für Ammoniak nutzbar gemacht werden. Mittels
+Onshore (über Land) und Offshore (Unterwasser) Pipelines können auch derzeit
+schon mittlere Transportdistanzen überwunden werden.
+
+Die Infrastruktur für die Lagerung von **Methanol** ist nur geringfügig
+ausgebaut, jedoch ist eine Umrüstung bestehender Infrastruktur möglich, da es
+117 Methanol Terminals weltweit gibt. 47 der Häfen verfügen über
+Lagerkapazitäten von mehr als 50.000 Tonnen. Um die zusätzliche Nachfrage nach
+Methanol zur Verwendung als Schiffskraftstoff zu decken sind vermutlich größere
+oder zusätzliche Terminals notwendig. Es gibt verschiedene Möglichkeiten die
+Schiffe mit dem Methanol zu betanken. Entweder transportieren Lkws den
+Kraftstoff zum Schiff, oder eine Betankung kann z.B. durch ein Bunkerschiff
+erfolgen. Dies ist eine gängige Methode, da hier größere Mengen als per Lkw
+betankt werden können. Für Schiffe, die vom Heimathafen aus operieren oder feste
+Route befahren, ist eine Betankung über Terminals oder Pipelines üblich.
+
+Es gibt keine ausgebaute Infrastruktur für die Lagerung von **Wasserstoff**.
+Wasserstoff erfordert wegen seiner chemischen und physikalischen Eigenschaften
+eines hohen Sicherheitsstandards. Aktuell gibt es in Deutschland auch schon drei
+Wasserstoffnetze, die allerdings eine regionale Begrenzung aufweisen. Auch
+könnte das deutsche Erdgasnetz nach einzelnen Änderungen genutzt werden.
+Zukünftig soll Wasserstoff aber als "grüner" Energieträger für die Industrie
+eingesetzt werden, sodass davon auszugehen ist, dass die Infrastruktur stark
+ausgebaut wird. Erste Projekte hierzu laufen gerade an und werden u. a. stark
+von der EU gefördert. In Hamburg soll zukünftig ein Hub für grünen Wasserstoff
+entstehen, da der Standort von bestehender Infrastruktur profitiert. Dieser soll
+ab 2050 in Betrieb genommen werden.
+
+### Kriterium 6: Praxisreife
+
+Eine kommerzielle Verfügbarkeit für ein Antriebssystem für **Ammoniak** ist
+aktuell bislang nicht gegeben. Die ausgereifteste und günstigste Möglichkeit,
+ein Schiff mit Ammoniak zu betreiben, sind herkömmliche
+Viertakt-Verbrennungsmotor. Als Abgase würden jedoch Wasserdampf und das starke
+Treibhausgas Stickstoffdioxid entstehen. Der klimaneutrale Antrieb mittels
+Hochdruck-Brennstoffzellen wird aktuell in ersten Versorgungs- und
+Frachtschiffen getestet bspw. in Norwegen getestet. Das erste kommerziell
+eingesetze, mit Ammoniak betriebene Frachtschiff, soll 2026 seine Dienst
+aufnehmen.
+
+Es besteht eine kommerzielle Verfügbarkeit von Antriebssysteme für **Methanol**
+in Form eines Verbrennungsmotors. Die bis 2022 weltweit größte Redereei Maersk
+nahm im Januar 2024 das erste mit Methanol betriebene Frachtschiff in seine
+Flotte auf.
+
+Es besteht keine kommerzielle Verfügbarkeit des Antriebssystems für
+**Wasserstoff**, jedoch existieren Prototypen. Als Schlüsseltechnologie werden
+wasserstoffbetriebene Brennstoffzellen beschrieben, wie sie bspw. in U-Booten
+eingesetzt werden. Seit ca. 2021 gibt es erste Binnenfrachschiffe, die mit
+Wasserstoff betrieben werden.

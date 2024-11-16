@@ -1,0 +1,235 @@
+## Biogas vs. Erdgas
+
+Infolge der Energiewende und dem damit verbundenen Ausstieg aus der Kohlenkraft
+und Kernenergie wird in der deutschen Politik über den zukünftigen Strommix
+beraten. Neben der Nutzung von Strom aus Photovoltaik, Windenergie und der
+Wasserkraft wird auch noch immer Gas zur Stromerzeugung für die Industrie und
+Haushalte und für den Betrieb von Gasheizungen benötigt. Befürworter der Nutzung
+von Biogas sprechen sich dafür aus, das fossile Erdgas vollständig durch Biogas
+zu ersetzen. Diskutiere den Ersatz von Erdgas durch Biogas unter Verwendung
+derMaterialien. Ergänze deine Argumentation gerne um eigene Punkte.
+
+**Diskutiere** den Ersatz von Erdgas durch Biogas unter Verwendung der
+Materialien. Ergänze deine Argumentation um eigene Punkte.
+
+{{< include ../_hints.qmd >}}
+
+### Informationen zu Erdgas
+
+Erdgas ist ein brennbares Gasgemisch, das in unterirdischen Lagerstätten
+vorkommt. Es ist ähnlich wie Erdöl ein fossiler Rohstoff, der über einen viele
+Millionen Jahren andauernden Abbauprozess aus großen Mengen organischen
+Ausgangsstoffen wie marinen Kleinstlebewesen entstanden ist. Erdgas wird zum
+Beispiel zum Heizen, für thermische Prozesse, zur Stromerzeugung, als Treibstoff
+oder als Edukt in der Industrie genutzt. Erdgas kann als Gas mit Pipelines oder
+verflüssigt als LNG per Schiff transportiert werden. Schätzungen, wie lange es
+dauert, bis die Erdgasreserven erschöpft sind, variieren stark und sind abhängig
+von der jährlich genutzten Menge. Viele Experten schätzen die Dauer auf etwa 50
+bis 100 Jahre.
+
+Die Zusammensetzung von Erdgas variiert je nach Förderstätte. Der
+Hauptbestandteil von Erdgas ist jedoch immer Methan (CH~4~). Erdgas enthält
+zudem auch größere Anteile anderer Stoffe. Hierzu gehören andere gasförmige
+Kohlenwasserstoffe wie Ethan (C~2~H~6~), Ethen (C~2~H~4~), Propan (C~3~H~8~)
+oder Butan (C~4~H~10~). Außerdem enthalten ist beispielsweise das giftige Gas
+Schwefelwasserstoff (H~2~S) und bis zu neun Prozent Kohlenstoffdioxid (CO~2~),
+welches bei der Förderung von Erdgas in die Luft ausgestoßen wird. Zudem
+entweichen bei der Förderung durchschnittlich 2,95 % des gesamten geförderten
+Methans ungenutzt in die Atmosphäre.
+
+Das im Erdgas enthaltene Methan wird beim Heizen oder bei der Stromerzeugung
+verbrannt. Hierbei läuft folgende Reaktion ab:
+
+Wortgleichung:
+
+::: {text-align="center"}
+Methan + Sauerstoff $\rightarrow$ Kohlenstoffdioxid + Wasser
+:::
+
+Reaktionsgleichung:
+
+$$\text{CH}_{4} + \text{O}_{2} \rightarrow \text{CO}_{2} + 2\text{H}_{2}\text{O}$$
+
+### Informationen zu Biogas
+
+Bei Biogas handelt es sich um einen Energieträger, der aus erneuerbaren
+Rohstoffen gewonnen wird. Es wird in Deutschland bereits in etwa 9600 Anlagen
+hergestellt. Etwa 56 % des Gases wird hierbei aus Mais hergestellt. Andere
+Ausgangsstoffe sind Gras, Getreide und Zuckerrüben. Insbesondere der Maisanbau
+für die Biogasherstellung steht aufgrund des Aufkommens von Monokulturen in der
+Kritik. Hierdurch wird die Artenvielfalt gefährdet. Bereits 2022 wurden 9 % der
+Landwirtschaftsflächen Deutschlands für die Biogasherstellung genutzt, die somit
+beispielsweise nicht für den Anbau von Lebensmitteln bereitstehen. Alternativ
+kann Biogas auch aus Lebensmittel- und Ernteresten, Gülle und Mist hergestellt
+werden. Hierbei wird bisher nur etwa ein Drittel des vorhandenen Potenzials
+genutzt. Branchenverbände haben berechnet, dass die vollständige Nutzung solcher
+Abfälle jährlich 140 Terrawattstunden Energie liefern könnte. Auch die Nutzung
+alternativer Energiepflanzen wie Wildpflanzen, die eine Reihe ökologischer
+Vorteile, wie die Bereitstellung eines Lebensraumes für Insekten, Vögel und
+Wildtiere bereitstellen, ist denkbar. Generell bieten die zur Herstellung von
+Biogas verwendeten Pflanzen den Vorteil, dass diese während des Wachstums
+Kohlenstoffdioxid aus der Luft aufnehmen.
+
+Biogas besteht zu etwa 50 -- 66% aus Methan (CH~4~). Weitere Bestandteile sind
+Kohlenstoffdioxid (CO~2~), Stickstoff (N~2~), Wasserstoff (H~2~),
+Schwefelwasserstoff (H~2~S) und Ammoniak (NH~3~). Die beiden zuletzt genannten
+Stoffe müssen aus dem Biogas entfernt werden, da sie Menschen und Maschinen
+schaden können. Etwa 5 % des in Biogasanlagen produzierten Methans entweicht
+unkontrolliert in die Atmosphäre.
+
+Das Gas entsteht durch die Vergärung der Ausgangsstoffe in einem luftdichten
+Reaktor mithilfe von Bakterien. Bei etwa 40 °C wirken die Bakterien optimal und
+bauen pflanzliche und tierische Stoffe ab. Der Prozess findet unter Ausschluss
+von Licht und Sauerstoff unter dauerhaftem Umrühren statt. Der wichtigste
+Vorgang bei diesem Prozess ist die Entstehung von Methan. Dies kann auf zwei
+Arten geschehen. Einerseits aus einer Aufspaltung von Essigsäure in Methan und
+Kohlenstoffdioxid:
+
+$$\text{CH}_{3}\text{COOH} \rightarrow \text{CH}_{4} + 2\text{CO}_{2}$$
+
+und andererseits aus der Reaktion von Kohlenstoffdioxid und Wasserstoff zu
+Methan und Wasser:
+
+$$ \text{CO}_{2} + 4 \text{H}_{2} \rightarrow \text{CH}_{4} + 2 \text{H}_{2}\text{O}$$
+
+Wird Biogas verbrannt, so entstehen ebenso wie beim Erdgas Kohlenstoffdioxid und
+Wasser. Hierbei läuft folgende Reaktion ab:
+
+Wortgleichung: Methan + Sauerstoff → Kohlenstoffdioxid + Wasser
+
+Reaktionsgleichung:
+
+$$ \text{CH}_{4} + \text{O}_{2} \rightarrow \text{CO}_{2} + 2\text{H}_{2}\text{O}$$
+
+### Heizen mit Biogas
+
+Herkömmliche Gasheizungen lassen sich nicht direkt mit Biogas betreiben. Hierzu
+muss Biogas zunächst zu Biomethan verarbeitet werden. Hierzu erfolgt zunächst
+eine Biogasaufbereitung, bei der Kohlenstoffdioxid und andere Bestandteile durch
+verschiedene technische Verfahren abgetrennt werden. Das so entstehende Biogas
+ist chemisch gleichzusetzen mit Erdgas und kann somit ins Erdgasnetz eingespeist
+werden.
+
+Technologien für die Aufbereitung von Biogas zu Biomethan sind bekannt und
+verfügbar. Jedoch bemängeln Experten, dass es zu wenige solche Anlagen in
+Deutschland gibt. Denn nur rund 250 der 9600 Biogasanlagen in Deutschland sind
+mit einer solchen Technologie ausgestattet. Ein Ausbau der Infrastruktur würde
+große Mengen Geld kosten.
+
+### Akzeptanz Biogas
+
+Eine Umfrage konnten zeigen, dass 89 % der Bürgerinnen und Bürger die stärkere
+Nutzung von Erneuerbaren Energien in Deutschland befürwortet. Hierbei
+befürworten 64 % solche Anlagen in der Nachbarschaft zu haben. Es gibt jedoch
+auch Untersuchungen, die zeigen, dass es begrenzten lokalen Widerstand gegen
+Biogasanlagen in einem Umkreis von 2 Kilometern gibt. Gegner befürchten
+insbesondere Gestank, Lärm, Gift im Wasser und volle Straßen. Auch die
+Intensität des Maisanbaus und die Größe der gebauten Biogasanlagen. wirkt sich
+negativ auf die Akzeptanz aus
+
+### Durchschnittliche Gaskosten für Haushalte
+
+Die folgende Tabelle zeigt die durchschnittlichen Kosten eines vierköpfigen
+Haushalts für Biogas und Erdgas bei einem jährlichen Verbrauch von 15.000 kWh.
+(Stand April 2024)
+
+| Energieträger | Durchschnittliche Kosten pro Jahr in Euro | Durchschnittlicher Preis pro kWh in Euro |
+|:---|:---|:---|
+| Erdgas | 1.263 | 0,084 |
+| Biogas | 2.246 | 0,150 |
+
+### Strommix Deutschland 2023
+
+```{r}
+#| label: fig-task-lng-fig-strommix
+#| echo: false
+#| fig-cap: |
+#|   Die Abbildung zeigt die in Deutschland im Jahr 2023 durch
+#|   verschiedene Methoden hergestellten Mengen an Strom in Terrawattstunden
+#|   (TWh).
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+knitr::include_graphics("task_lng_fig_strommix.png", dpi = 270)
+```
+
+### Klimaschutzgesetz
+
+Im Juni 2023 hat die Bundesregierung eine Neufassung des Klimaschutzgesetzes
+beschlossen. Dieses Gesetz stellt den Kern der nationalen Klimapolitik dar. Es
+regelt, dass Deutschland in den kommenden Jahren den Ausstoß an Treibhausgasen
+wie Kohlenstoffdioxid und Methan immer weiter reduzieren muss und bis 2045
+treibhausgasneutral sein soll. Dies bedeutet nicht, dass ab dem Zeitpunkt gar
+keine Treibhausgase mehr ausgestoßen werden dürfen, sondern dass Ausstöße durch
+Klimaschutzprojekte ausgeglichen oder beispielsweise unterirdisch gespeichert
+werden müssen.
+
+### Vergleich der Emissionen ausgewählter Energieträger
+
+```{r}
+#| label: fig-task-lng-fig-emissionsfaktoren
+#| echo: false
+#| fig-cap: |
+#|   Die Grafik zeigt die Emissionsfaktoren verschiedener Energieträger.
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+knitr::include_graphics("task_lng_fig_emissionsfaktoren.png", dpi = 270)
+```
+
+Der Emissionsfaktor wird dafür genutzt, die verschiedenen Emissionen der
+unterschiedlichen Energieträger vergleichbar zu machen. Hierzu werden alle
+ausgestoßenen Treibhausgase in Kohlenstoffdioxid-Äquivalente umgerechnet. Der
+Emissionsfaktor gibt an, wie viele Gramm Kohlenstoffdioxid-Äquivalente pro
+erzeugter Kilowattstunde Energie freigesetzt werden. Je höher dieser Wert liegt,
+desto mehr tragen die Emissionen eines Energieträgers zum Klimawandel bei.
+
+### Gasreserven und Gasexporte
+
+```{r}
+#| label: fig-task-lng-fig-erdgasreserven
+#| echo: false
+#| fig-cap: |
+#|   Die Grafik zeigt die zehn Länder mit den größten bestätigten
+#|   Gasreserven im Jahr 2021. Zum Vergleich: Deutschlands Erdgasreserven
+#|   betragen etwa 20 km^3^.
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+knitr::include_graphics("task_lng_fig_erdgasreserven.png", dpi = 270)
+```
+
+```{r}
+#| label: fig-task-lng-fig-erdgasexporteure
+#| echo: false
+#| fig-cap: |
+#|   Die Grafik zeigt die zehn größten Gas-Exporteure weltweit.
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+knitr::include_graphics("task_lng_fig_erdgasexporteure.png", dpi = 270)
+```
+
+```{r}
+#| label: fig-task-lng-fig-erdgasimporte
+#| echo: false
+#| fig-cap: |
+#|   Die Grafik zeigt die Länder, aus denen Deutschland im Jahr 2023
+#|   Erdgas importierte. Die Erdgasexporte der verschiedenen Länder werden in
+#|   Terrawattstunden (TWh) angegeben. LNG-Importe per Schiff stammen vor
+#|   allem aus den USA.
+#| fig-alt: |
+#|   A diagram displaying the data science cycle with
+#|   communicate highlighed in blue.
+#| out.width: NULL
+
+knitr::include_graphics("task_lng_fig_erdgasimporte.png", dpi = 270)
+```
